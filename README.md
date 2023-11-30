@@ -14,6 +14,10 @@ Includes some resource packs:
 
 ---
 
+For instructions on how to install this pack [check this page out]({{ site.url }}/installation)
+
+---
+
 <details>
 <summary> Mods Included </summary>
 
