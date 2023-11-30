@@ -1,0 +1,13 @@
+name = "This boat is MINE!"
+filename = "this-boat-is-mine-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Q8vmqRK/versions/EtfTEbI1/this-boat-is-mine-1.0.1.jar"
+hash-format = "sha1"
+hash = "21125c72e867b1a26369cf9ba0421d0aad8491ee"
+
+[update]
+[update.modrinth]
+mod-id = "1Q8vmqRK"
+version = "EtfTEbI1"

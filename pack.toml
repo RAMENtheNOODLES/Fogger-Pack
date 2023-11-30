@@ -1,0 +1,13 @@
+name = "Fogger Pack"
+author = "CookieJAR499 & Co"
+version = "1.0.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "87c2fdd7d8a7ad9cea2f0e85235de107d32c3b93f919f068374fa737ac2c413a"
+
+[versions]
+fabric = "0.14.25"
+minecraft = "1.20.1"

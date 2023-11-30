@@ -1,0 +1,13 @@
+name = "Apocalypse"
+filename = "apocalypse-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hBxmUw1S/versions/yAquvtV9/apocalypse-1.1.0.jar"
+hash-format = "sha1"
+hash = "0cded2670ce5fb92de843704cb27cfccbf98c4c9"
+
+[update]
+[update.modrinth]
+mod-id = "hBxmUw1S"
+version = "yAquvtV9"

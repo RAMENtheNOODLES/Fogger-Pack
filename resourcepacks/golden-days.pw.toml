@@ -1,0 +1,13 @@
+name = "Golden Days Base"
+filename = "golden-days-base-1.9.1a.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BFzJ6aQL/versions/felnve5y/golden-days-base-1.9.1a.zip"
+hash-format = "sha1"
+hash = "75e82198c3384f5907d6d6a6a3a297b23363c0e7"
+
+[update]
+[update.modrinth]
+mod-id = "BFzJ6aQL"
+version = "felnve5y"
