@@ -642,6 +642,14 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
+file = "mods/Continents_1.20.2_v1.1.3.jar"
+hash = "651b324696b5a1cff5a529916da90c054907d38ed689def106e7ae1ce8a73f0a"
+
+[[files]]
+file = "mods/Continents_1.20.2_v1.1.3.jar:Zone.Identifier"
+hash = "376206b93be796041364b0a5a12e27694ff94a5d5a815141a0d4cea6b6a47ac9"
+
+[[files]]
 file = "mods/Darkness.jar"
 hash = "c6bee15f8f8954095dfd3e8e7e337a6d550c6ed1e2aeaa6d107fc191fe1dd132"
 
@@ -765,11 +773,6 @@ hash = "98445166909fc20d9ad2b2fbf6573ed5a0d666bdb8122089e002b790049da621"
 metafile = true
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "fdc23bfad14323b81de25b84d3324bc0445a3f10e6c2d90d20cc3a1a9ecfb121"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "03ef689c3c008fdc1215f1cfa4f78783d390adfde90176a2b580a2363f2ec4e1"
 metafile = true
@@ -826,11 +829,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "71c96577e14c025bb923dbe0b65caca45f776d50d0b2eec68aaa48b18a43ff2f"
-metafile = true
-
-[[files]]
-file = "mods/equipment-compare.pw.toml"
-hash = "3be8e2a0f6a01ef550f2154583b26b27a243e4f2a6697d8a433080ae05ff1e1b"
 metafile = true
 
 [[files]]
@@ -1160,6 +1158,14 @@ metafile = true
 file = "mods/valkyrien-skies.pw.toml"
 hash = "615c4d880d5d5d34be5b88ecff4b0bf00f1df24b71edf26a98ed0c772b946b34"
 metafile = true
+
+[[files]]
+file = "mods/vcinteraction-1.20.1-1.0.4.jar"
+hash = "392dbdb3d1e2f620f666eddd8332147b55b4492fd3fc86ffe76dab89a0233080"
+
+[[files]]
+file = "mods/vcinteraction-1.20.1-1.0.4.jar:Zone.Identifier"
+hash = "970e94f3be0d87234dad5043e16c2ea5962f82374a1b8e7cee69d1c6a0c11d2f"
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
