@@ -7,3 +7,5 @@ releases/
 mod.sh
 *.html
 *.css
+*.md
+/*.md
