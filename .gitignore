@@ -6,3 +6,5 @@
 releases/
 mod.sh
 mods.txt
+*.html
+*.css
