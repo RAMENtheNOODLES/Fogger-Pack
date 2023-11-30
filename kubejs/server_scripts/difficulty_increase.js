@@ -3,6 +3,7 @@ ServerEvents.recipes(event => {
     event.remove( { input: "vs_eureka:balloon" } )
     event.remove( { output: "vs_eureka:balloon", input: "supplementaries:soap" } )
     event.remove( { input: "supplementaries:soap" } )
+    event.remove( { output: "supplementaries:soap" } )
     event.remove([
         { output: "vs_eureka:balloon" },
         { output: "vs_eureka:white_balloon" },

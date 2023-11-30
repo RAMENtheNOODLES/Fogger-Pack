@@ -1,6 +1,6 @@
 name = "Golden Days Base"
 filename = "golden-days-base-1.9.1a.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BFzJ6aQL/versions/felnve5y/golden-days-base-1.9.1a.zip"
