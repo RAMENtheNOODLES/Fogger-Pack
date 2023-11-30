@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "4dcb70637ee9600a8ad03cf77633fdad23adc3f3c42f8dcdc2347181207fd5a3"
 
 [[files]]
-file = "README.md"
-hash = "fdb511291cd1e47137100ddb071e73edab5e060342858846540fdebd11f55371"
-
-[[files]]
 file = "config/GoodOlRegen.sf.ini"
 hash = "2013febc0b3e989750f638b8d604200bee990392ec27645d29a6099a27e05aaf"
 
@@ -542,11 +538,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_resources/FoggySmpSplash.zip"
-hash = "bb137ef3c6a8f0d26357f3afe3bbd4551da18c1302032049b631228fe73877f9"
-
-[[files]]
-file = "global_packs/required_resources/VanillaTweaks_FogPack.zip"
-hash = "ccd9c9157a67f03f70ee39edd8ab0dd3a14533ee90eb0ab8f47ffebdcde97d08"
+hash = "df6d5ce8effccdefd4ccdc337342b3f2fa0bd9e04f753ae1d61626d5444dcddf"
 
 [[files]]
 file = "global_packs/required_resources/classic-fog-mc1.20.1-v1.1.2.zip"
@@ -643,10 +635,6 @@ hash = "151fe5d9153e18c0fa3b1ec5cc1f75379f12cd7b2b5315b50658005d3ebbbe10"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-
-[[files]]
-file = "mod.sh"
-hash = "7f96a4d9fac4872808b0e69885a37b82114b28999227fc52f0c5a983a3a00031"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -866,6 +854,10 @@ hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 metafile = true
 
 [[files]]
+file = "mods/farsighted-mobs-fabric-1.1-1.18-1.19.jar"
+hash = "3490963e5dc685fd3861aad1f1e7e32ee7c065008cedf5a79875fa6e2e34da4f"
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -873,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
 
 [[files]]
@@ -907,12 +904,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "942cb7252713c61b53dff087aa20cf1de90262a1efd6e115a79a2be3ea8e2c24"
 metafile = true
 
 [[files]]
@@ -958,6 +960,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
 
 [[files]]
@@ -1027,13 +1034,17 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "9fabff6208086644b34566d9e8ba1ef992a581bbd9eb5067e4c057eb41129ab2"
+hash = "5cfefe7b4175d9ba773aeae441f47e14cad5221e947f9067ee4881598ef89507"
 metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
+
+[[files]]
+file = "mods/oldregen-1.0.2.jar"
+hash = "454a8ceed0014f42e0e5cc2c577f8f11b39bfcb55274fcda71d1ce2c05382462"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -1072,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+hash = "4cdab4b97e6104ace9a5bf9a9a79891cc79098d11edf626e73ff5007d3b7947f"
 metafile = true
 
 [[files]]
@@ -1112,12 +1123,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+hash = "47e5a05f7c99cbd4aa74f0ac7c1bffcf97ddff9125dc346862abb4dd6f7a51df"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+hash = "bc9185b2c1ed3389b68455f4540ec57a676906e523675f323a148d1ebdb18ef8"
 metafile = true
 
 [[files]]
@@ -1161,6 +1172,11 @@ hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
 
 [[files]]
+file = "mods/weeping-angels.pw.toml"
+hash = "b1215085800dccf01d4ff69ca92d0716fece2059383e125f9724db5f91ea2475"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
@@ -1179,6 +1195,10 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_FogPack.zip"
+hash = "ccd9c9157a67f03f70ee39edd8ab0dd3a14533ee90eb0ab8f47ffebdcde97d08"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
