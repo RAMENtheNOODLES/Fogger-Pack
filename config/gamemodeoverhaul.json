@@ -1,0 +1,9 @@
+{
+  "enable_gamemode": true,
+  "enable_gm": true,
+  "enable_no_args_gm": false,
+  "enable_default_gamemode": true,
+  "enable_dgm": false,
+  "enable_difficulty": true,
+  "enable_toggledownfall": true
+}

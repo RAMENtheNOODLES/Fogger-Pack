@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "responsePolicy": "kick",
+  "disallowedMods": ["iris", "optifabric"],
+  "disallowedFeatures": []
+}

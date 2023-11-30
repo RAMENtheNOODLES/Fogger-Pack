@@ -1,0 +1,127 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				item = true
+				chicken = true
+				cow = true
+				squid = true
+				zombie = true
+				axolotl = true
+				turtle = true
+				parrot = true
+				frog = true
+				glow_squid = true
+				ocelot = true
+				bat = true
+				creeper = true
+				tropical_fish = true
+				enderman = true
+				skeleton = true
+				spider = true
+				bee = true
+				panda = true
+				dolphin = true
+				drowned = true
+				witch = true
+				chest_minecart = true
+				cod = true
+				pufferfish = true
+				sheep = true
+				pig = true
+				horse = true
+				donkey = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				iron_golem = true
+				cat = true
+				salmon = true
+				strider = true
+				zombified_piglin = true
+				piglin = true
+				experience_orb = true
+				ghast = true
+				blaze = true
+				wither_skeleton = true
+				armor_stand = true
+				slime = true
+				lightning_bolt = true
+				ender_pearl = true
+				husk = true
+				arrow = true
+				egg = true
+				pillager = true
+				fox = true
+				rabbit = true
+				phantom = true
+				stray = true
+				minecart = true
+				snowball = true
+				boat = true
+				potion = true
+				trident = true
+				giant = true
+				wither = true
+				wither_skull = true
+				ender_dragon = true
+				piglin_brute = true
+				elder_guardian = true
+
+			[light_sources.settings.entities.weeping_angels]
+				weeping_angel = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
+				dark_oak_creeper = true
+				savannah_creeper = true
+				snowy_creeper = true
+				spruce_creeper = true
+				swamp_creeper = true
+				ocean_creeper = true
+
+			[light_sources.settings.entities.immersive_portals]
+				loading_indicator = true
+				nether_portal_new = true
+
+			[light_sources.settings.entities.deeperdarker]
+				shattered = true
+				sculk_snapper = true
+				sculk_centipede = true
+				sculk_leech = true
+				stalker = true
+
+			[light_sources.settings.entities.cave_dweller]
+				cave_dweller = true
+
+			[light_sources.settings.entities.supplementaries]
+				red_merchant = true
+
+			[light_sources.settings.entities.xercapaint]
+				easel = true
+
