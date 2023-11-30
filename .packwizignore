@@ -7,3 +7,5 @@
 /mods.txt
 /*.html
 /*.css
+/changelogs
+*.md
