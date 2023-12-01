@@ -9,3 +9,4 @@ mod.sh
 *.css
 *.md
 /*.md
+mod_list.sh

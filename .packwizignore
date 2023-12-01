@@ -11,3 +11,4 @@
 /changelogs
 *.md
 /_data
+*.sh
