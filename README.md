@@ -14,7 +14,7 @@ Includes some resource packs:
 
 ---
 
-For instructions on how to install this pack [check this page out]({{ site.url }}/Fogger-Pack/installation)
+For instructions on how to install this pack [check this page out](https://ramenthenoodles.github.io/Fogger-Pack/installation/)
 
 ---
 
