@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/jekyll-gh-pages.yml"
+hash = "cba53948a0e3544fa32b2494abcda6a2372727bac37b824634de94f80e6c91de"
+
+[[files]]
 file = "LICENSE"
 hash = "4dcb70637ee9600a8ad03cf77633fdad23adc3f3c42f8dcdc2347181207fd5a3"
 
@@ -23,10 +27,6 @@ hash = "fae0ac7b88a2b0bd89c1da26414a3c25797610b2c6cc768733664c0b65869666"
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/advancementplaques-common.toml"
@@ -1177,6 +1177,10 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_FogPack.zip"
