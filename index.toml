@@ -513,6 +513,14 @@ file = "global_packs/required_resources/FoggySmpSplash.zip"
 hash = "df6d5ce8effccdefd4ccdc337342b3f2fa0bd9e04f753ae1d61626d5444dcddf"
 
 [[files]]
+file = "global_packs/required_resources/From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip.zip"
+hash = "cc3cf6f0724a8fc3d5275f895a62fd2d785b6ae61185d2068c317f440890195b"
+
+[[files]]
+file = "global_packs/required_resources/From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip.zip:Zone.Identifier"
+hash = "59a28d96f3aa05069dbcf9d6cb9adc985b79ad3c59db518debcaaf619189d085"
+
+[[files]]
 file = "global_packs/required_resources/classic-fog-mc1.20.1-v1.1.2.zip"
 hash = "15e87e3eaa7ecafecd1ef1578fe0888fe38d18d5244a2e892e7e313d2989ff47"
 
@@ -930,6 +938,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/localized-chat.pw.toml"
+hash = "c0c4493a0bf1a570ac53c25cfbd26ee57a8df012b6b9dc4ccad2acd386dad41d"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
 metafile = true
@@ -1041,11 +1054,6 @@ metafile = true
 [[files]]
 file = "mods/progression-reborn.pw.toml"
 hash = "273ecac5b66f043950562a347971f85a783ade2d3b9ba453d077978e600b89f0"
-metafile = true
-
-[[files]]
-file = "mods/proximity-text-chat.pw.toml"
-hash = "a88abc4066ccc2602ec72a872676fc051ed87be99fcdf61f0ea93b7667e808df"
 metafile = true
 
 [[files]]
