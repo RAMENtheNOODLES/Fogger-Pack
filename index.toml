@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/jekyll-gh-pages.yml"
-hash = "cba53948a0e3544fa32b2494abcda6a2372727bac37b824634de94f80e6c91de"
-
-[[files]]
 file = "LICENSE"
 hash = "4dcb70637ee9600a8ad03cf77633fdad23adc3f3c42f8dcdc2347181207fd5a3"
 
@@ -616,14 +612,6 @@ hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
-
-[[files]]
-file = "mods/Continents_1.20.2_v1.1.3.jar"
-hash = "651b324696b5a1cff5a529916da90c054907d38ed689def106e7ae1ce8a73f0a"
-
-[[files]]
-file = "mods/Continents_1.20.2_v1.1.3.jar:Zone.Identifier"
-hash = "376206b93be796041364b0a5a12e27694ff94a5d5a815141a0d4cea6b6a47ac9"
 
 [[files]]
 file = "mods/Darkness.jar"
