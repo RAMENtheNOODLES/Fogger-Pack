@@ -450,7 +450,7 @@ hash = "80b0161bbd450eb2e8c64fcd3e643694c052bf43e9e79a985fb639b7a4782466"
 
 [[files]]
 file = "config/valkyrienskies/vs_core_server.json"
-hash = "ecbb604dfc0fc1d0c8de9f8a6a3f0c0f8c6b5abee1d6474a58a3349e3ea4830c"
+hash = "ec3c1187ec61a7c9e195cd015d1a2a8611a87e6f52f8544a30960c827c160453"
 
 [[files]]
 file = "config/valkyrienskies/vs_eureka_client.json"
