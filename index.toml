@@ -138,11 +138,11 @@ hash = "4935e97cb602d451b0dfbedb1b07c873db9da5e0e0125c13cc8a7959b7257e93"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
-hash = "73d6a66347953dc8ff6168cc1944692bccabf48080b048d22ca92bc03d26f71f"
+hash = "a210a0210458aecb141f05ea8cc3ad5f7283e9f423fc03f26f3f40d662ff5f73"
 
 [[files]]
 file = "config/diggusmaximus/config.json5"
-hash = "9824a46eefdc7ceb5aaaae50a73055d0dc090b7c190bc741a0c0a113bb762494"
+hash = "ea90e14d36bbf9ff85e35ec8b5b566554577dba179d676b586e2029e16032010"
 
 [[files]]
 file = "config/diggusmaximus/excavatingshapes.json5"
@@ -513,12 +513,8 @@ file = "global_packs/required_resources/FoggySmpSplash.zip"
 hash = "df6d5ce8effccdefd4ccdc337342b3f2fa0bd9e04f753ae1d61626d5444dcddf"
 
 [[files]]
-file = "global_packs/required_resources/From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip.zip"
+file = "global_packs/required_resources/From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip"
 hash = "cc3cf6f0724a8fc3d5275f895a62fd2d785b6ae61185d2068c317f440890195b"
-
-[[files]]
-file = "global_packs/required_resources/From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip.zip:Zone.Identifier"
-hash = "59a28d96f3aa05069dbcf9d6cb9adc985b79ad3c59db518debcaaf619189d085"
 
 [[files]]
 file = "global_packs/required_resources/classic-fog-mc1.20.1-v1.1.2.zip"
@@ -939,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/localized-chat.pw.toml"
-hash = "c0c4493a0bf1a570ac53c25cfbd26ee57a8df012b6b9dc4ccad2acd386dad41d"
+hash = "e1900e4610519d230a1f6b486b2311e038f41abf34e3cf66ef261f9fc03983a3"
 metafile = true
 
 [[files]]
