@@ -678,6 +678,11 @@ hash = "5636f58a791fd425639a8fc45b920d12959838f6e461bc55795eabe266bab53b"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "91d5dd2f8f16d8765e275d4f814a9b6cd155b0d9b3b0d89d93b54ffbda4a0440"
+metafile = true
+
+[[files]]
 file = "mods/boat-fall.pw.toml"
 hash = "a50e02b46ffa05fd3805b901ae5fd71f1aefc6c60137816eec08f7394c6220d7"
 metafile = true
@@ -972,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "3b525404ba90b0d5fbe2a76a06cc7484863c0307d3359ad1a38647ed734a4735"
 metafile = true
 
 [[files]]
