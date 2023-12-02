@@ -134,7 +134,7 @@ hash = "4935e97cb602d451b0dfbedb1b07c873db9da5e0e0125c13cc8a7959b7257e93"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
-hash = "a210a0210458aecb141f05ea8cc3ad5f7283e9f423fc03f26f3f40d662ff5f73"
+hash = "3f937ebbb54b8a97d8f6992966f757554f9000522d3f51312562d7637da74bd7"
 
 [[files]]
 file = "config/diggusmaximus/config.json5"
@@ -525,6 +525,10 @@ file = "global_packs/required_resources/FoggySmpSplash.zip"
 hash = "df6d5ce8effccdefd4ccdc337342b3f2fa0bd9e04f753ae1d61626d5444dcddf"
 
 [[files]]
+file = "global_packs/required_resources/Fresh-Croptopia-Seeds_(1.16+).zip"
+hash = "448eacd2faae4deb47fc4fe267bc94907ee803bef227bc27c11b597face6063d"
+
+[[files]]
 file = "global_packs/required_resources/From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip"
 hash = "cc3cf6f0724a8fc3d5275f895a62fd2d785b6ae61185d2068c317f440890195b"
 
@@ -788,6 +792,11 @@ hash = "a700b9ee3a43f831e4d71c1c6cd816813975b61ebdb962297e95d71026d1e056"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "8361392d5f517beb700ee5367c05c81448dba6d2becae59e37dd2720157d38c9"
+metafile = true
+
+[[files]]
 file = "mods/deepslategenerator-1.0.2+1.20.1.jar"
 hash = "9b6872aa1a8c4d19d1d412f8f62061252af53f834326cec71ed1e9bb18540fc6"
 
@@ -864,6 +873,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-croptopia-compat.pw.toml"
+hash = "ab827efb520132f3e1ef1157bfdbba3977f379690f7e4ab4ce92a0fc70b5b471"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
