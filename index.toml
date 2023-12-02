@@ -354,7 +354,7 @@ hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
 [[files]]
 file = "config/sleepwarp-client.json"
-hash = "1cba3c82632d072e194974204f29888e88eb1835eace9a5613779ad93b86af05"
+hash = "407923c5395517faf069cabd2072381a7584e5cee431ba92f418fa20c563bd30"
 
 [[files]]
 file = "config/snowballkb.json"
@@ -927,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ebc7a77402069acd00a1a84eaeefc06c586035c31d7abbc941b9cf204afec2a9"
 metafile = true
 
 [[files]]

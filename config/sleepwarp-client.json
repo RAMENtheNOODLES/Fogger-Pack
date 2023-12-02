@@ -1,6 +1,6 @@
 {
   "max_ticks_added": 10,
-  "player_multiplier": 0.25,
+  "player_multiplier": 0.0001,
   "action_bar_messages": true,
   "use_sleep_percentage": false,
   "tick_block_entities": true,
