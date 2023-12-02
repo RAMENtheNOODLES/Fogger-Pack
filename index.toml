@@ -737,6 +737,11 @@ hash = "98445166909fc20d9ad2b2fbf6573ed5a0d666bdb8122089e002b790049da621"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "b04efd9e269edaf37c32a93b76e2523d481f59534d681d8c8c7091103e3aea20"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "03ef689c3c008fdc1215f1cfa4f78783d390adfde90176a2b580a2363f2ec4e1"
 metafile = true
@@ -1124,16 +1129,8 @@ hash = "615c4d880d5d5d34be5b88ecff4b0bf00f1df24b71edf26a98ed0c772b946b34"
 metafile = true
 
 [[files]]
-file = "mods/vcinteraction-1.20.1-1.0.4.jar"
-hash = "392dbdb3d1e2f620f666eddd8332147b55b4492fd3fc86ffe76dab89a0233080"
-
-[[files]]
-file = "mods/vcinteraction-1.20.1-1.0.4.jar:Zone.Identifier"
-hash = "970e94f3be0d87234dad5043e16c2ea5962f82374a1b8e7cee69d1c6a0c11d2f"
-
-[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "6182090dbc0d3cfd3c27bf77b478f2b8370e717f992e7aab050df8dac87bcb14"
+hash = "e5f0df30497b8b1afc29603612492734a46c33553a4fd0ea377ce29f7fa5ff01"
 metafile = true
 
 [[files]]
