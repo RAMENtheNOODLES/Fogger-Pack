@@ -922,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveportals.pw.toml"
-hash = "df63cbda65673b9957ad8144e45b16f6b2bdf84978be52f476106267eced6e14"
+hash = "652f8de8cd5bef467ed29ceb649b5f5111d51fc64dfd4794c170a80586189f75"
 metafile = true
 
 [[files]]
