@@ -7,3 +7,4 @@ mod.sh
 *.md
 /*.md
 mod_list.sh
+config/inventoryprofilesnext/
