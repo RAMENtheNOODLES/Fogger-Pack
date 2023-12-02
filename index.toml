@@ -138,11 +138,11 @@ hash = "4935e97cb602d451b0dfbedb1b07c873db9da5e0e0125c13cc8a7959b7257e93"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
-hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
+hash = "73d6a66347953dc8ff6168cc1944692bccabf48080b048d22ca92bc03d26f71f"
 
 [[files]]
 file = "config/diggusmaximus/config.json5"
-hash = "4b72fed28a24f6d3f7b4ed0dc5f87c4449f6eade69bf365bb77ad44209d97a6e"
+hash = "9824a46eefdc7ceb5aaaae50a73055d0dc090b7c190bc741a0c0a113bb762494"
 
 [[files]]
 file = "config/diggusmaximus/excavatingshapes.json5"

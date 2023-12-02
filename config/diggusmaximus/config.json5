@@ -18,7 +18,7 @@
 	// Tool required to excavate
 	"requiresTool": false,
 	// Stop before tool breaks
-	"dontBreakTool": true,
+	"dontBreakTool": false,
 	// Stop excavating when tool breaks
 	"stopOnToolBreak": true,
 	// Should tool take durability
