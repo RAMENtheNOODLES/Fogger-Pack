@@ -15,7 +15,7 @@
 [teleporting]
 	#Determines the chance a player will be teleported
 	#Range: 1 ~ 100
-	teleport_chance = 50
+	teleport_chance = 10
 	#A list of Dimensions that angels cannot teleport players to
 	banned_dimensions = []
 	#Determines the range that a player can be teleported from their current location

@@ -149,12 +149,28 @@ file = "config/diggusmaximus/grouping.json5"
 hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
+file = "config/dynmus/generalConfig.json"
+hash = "b24b1a696055413e0c1093e85d78d6983a4a1e3ab169909328ba593815de2457"
+
+[[files]]
+file = "config/dynmus/musicSelector.json"
+hash = "8b149bed169bc354c62b77b1bab7b62676fea45d4c064e64a64729970091ff27"
+
+[[files]]
 file = "config/easymagic-client.toml"
 hash = "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf"
 
 [[files]]
 file = "config/easymagic-server.toml"
 hash = "7dbf42819b121001c76e06c07994c363d316ce110f7b06dd032687f4099d5687"
+
+[[files]]
+file = "config/endermanoverhaul-client.jsonc"
+hash = "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a"
+
+[[files]]
+file = "config/endermanoverhaul.jsonc"
+hash = "fd56b7d1c589e221d6ae13d43974918e5e240029ea2700ac81b27dafb02f20c7"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -209,6 +225,10 @@ file = "config/global_data_and_resourcepacks.toml"
 hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
 
 [[files]]
+file = "config/harvestwithease-common.toml"
+hash = "c2202b8ca5ce16360faa9a75e0d3768538ddfd196fc4b48227f2e323d50d38d1"
+
+[[files]]
 file = "config/highspeed-rail.json5"
 hash = "8311925ac5d26f03f26dfe1bd5943bb7bbb7aabaf80a338d6606c952e1d4563f"
 
@@ -223,6 +243,10 @@ hash = "1b349fa24ead559abb0a140d8e9fa788b80627791c83eee9be901751762b6b20"
 [[files]]
 file = "config/indium-renderer.properties"
 hash = "d4f57452a113721e4100b9c01cd31ec18904501cd81f43710621d7d2006f31c0"
+
+[[files]]
+file = "config/inventoryprofilesnext/75.129.145.87&25567/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
@@ -263,6 +287,10 @@ hash = "c51c5a927c1f59d9373c038aea225dc618647ac076a9142d25111c86feaab64e"
 [[files]]
 file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/localizedchat.toml"
+hash = "6360ffcdc49a2222bf040f339e99559249ef5be9520f85367d5a2abd2de1986c"
 
 [[files]]
 file = "config/malilib.json"
@@ -343,6 +371,10 @@ hash = "cdb8f05b7d1f27000afc234dbf868b163ee97707d6daa2d61353111bb864aec7"
 [[files]]
 file = "config/rrp.properties"
 hash = "19bf35c69815c9a4ba1482320d794689872ac8e8be1155922c2a6a58f676a0ac"
+
+[[files]]
+file = "config/sit.json5"
+hash = "3858633acd1a72952383c7a0bfd53104b39ab79d2ca201a98fb0caa59a25a6fd"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -490,7 +522,7 @@ hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
 
 [[files]]
 file = "config/weeping-angels-spawns"
-hash = "e8b385b94e3e9dd4810cc7ff977327279e142e66180a639f1910f15b71f698dd"
+hash = "88fbb02244fecbdd78204fa043c6e7d37f95a0c39fe4d60f78dc8288de358c5c"
 
 [[files]]
 file = "config/weeping_angels-client.toml"
@@ -498,7 +530,7 @@ hash = "eb8b83f00d240ca760020bf42eb89e542e576b096701e55500a225d66d31052a"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
-hash = "31a12651d2259767b10f2f31924521735f8f08dc18f3bfed605917e14ae558ad"
+hash = "de3008003e94cd7758071669d3e19333ffb9d6365928640b6e8a67cab69ff956"
 
 [[files]]
 file = "config/yosbr/options.txt"
