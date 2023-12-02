@@ -17,7 +17,7 @@
 	#Range: 1 ~ 100
 	teleport_chance = 50
 	#A list of Dimensions that angels cannot teleport players to
-	banned_dimensions = ["minecraft:the_end"]
+	banned_dimensions = []
 	#Determines the range that a player can be teleported from their current location
 	#Range: > 1
 	teleport_range = 400

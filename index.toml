@@ -113,10 +113,6 @@ file = "config/cleardespawn.toml"
 hash = "d2330ec90f55427e4e995b971ab7799200e115fcf3d9e8d63000c67f04e6a13a"
 
 [[files]]
-file = "config/clientperms/config.json"
-hash = "415af6e36b5aac59502ebf367d136b1782834373618e1f3c4515578dcdd21ad5"
-
-[[files]]
 file = "config/collective.json5"
 hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
@@ -502,7 +498,7 @@ hash = "eb8b83f00d240ca760020bf42eb89e542e576b096701e55500a225d66d31052a"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
-hash = "4af9e9009ce3efff09733ad7ca4538ca7f22f5d62452f19bb60bee38179b5585"
+hash = "31a12651d2259767b10f2f31924521735f8f08dc18f3bfed605917e14ae558ad"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -622,6 +618,11 @@ file = "mods/Darkness.jar"
 hash = "c6bee15f8f8954095dfd3e8e7e337a6d550c6ed1e2aeaa6d107fc191fe1dd132"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
 metafile = true
@@ -711,6 +712,11 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
+metafile = true
+
+[[files]]
 file = "mods/cave-dweller-fabric.pw.toml"
 hash = "64714598d33f89fb868c2a073d5e6738370d543c97c66c3506629257424d185d"
 metafile = true
@@ -751,6 +757,11 @@ hash = "b04efd9e269edaf37c32a93b76e2523d481f59534d681d8c8c7091103e3aea20"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "03ef689c3c008fdc1215f1cfa4f78783d390adfde90176a2b580a2363f2ec4e1"
 metafile = true
@@ -775,6 +786,11 @@ hash = "82e0a174e16c0f33414fa89693f39f44bbd62a74fe927ae6620dfbd84d63a99b"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-music-updated.pw.toml"
+hash = "0255916c48646a6a415ac7470a63a5acc95f45c78c1674355e53b99d68b3e792"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
@@ -790,8 +806,18 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "09f11d5765ce4bdc7a16dca313b7939b6c245644aee59d81bba9ee91144e777b"
+metafile = true
+
+[[files]]
 file = "mods/endgame-reborn.pw.toml"
 hash = "d7c1ff0046ba7df39dd278125a3c4976e6427c55b35a9c90b74f4ca78c890a36"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "d8cff179a1e34fac660bb78c7b93e0b3181422991ac50a5d8169d895dfe70275"
 metafile = true
 
 [[files]]
@@ -856,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "6d9092b3a47bc8b2e404e1183d2151e50742f541204d5ed66d803fe56bad60d3"
 metafile = true
 
 [[files]]
@@ -1024,6 +1055,11 @@ hash = "5cfefe7b4175d9ba773aeae441f47e14cad5221e947f9067ee4881598ef89507"
 metafile = true
 
 [[files]]
+file = "mods/nyctophobia-dread.pw.toml"
+hash = "e28e2a6da9457c802b26ccf43476e15536cba58ff76bb808457ef22a73701fb9"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
@@ -1078,6 +1114,11 @@ hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "08bb1c50aa16dda08694932949e5d8ac2ceed7269ac9306a5690a48101b2560f"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
 metafile = true
@@ -1118,6 +1159,11 @@ hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "d9ca92edf4a87f33fc762c5c4de4dd81b0ed2f398a68e522dc2c1e537c5db583"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
@@ -1135,6 +1181,11 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "ccc8fda5bb7023bbecdb9be1ae832666f424ca874ad61ace4b219bd1b3b982f1"
 metafile = true
 
 [[files]]
