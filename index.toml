@@ -996,8 +996,8 @@ hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-command-permissions-1.6.2.jar"
-hash = "aaa5ddc4f558573008670b6e3c89aa7e53d3cbc628affd279756959d16ce4b23"
+file = "mods/minecraft-command-permissions-1.6.3.jar"
+hash = "afb10bda0b88ba1ae05a0cda8bbd75d3e0757d72d848e87a2a7cacedcd4e03e4"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
