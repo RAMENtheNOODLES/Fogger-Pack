@@ -578,7 +578,7 @@ hash = "c374d10447094e0601474dfce5399f5aee4fd4b94d53e6e52a5d0d5ffdb76454"
 
 [[files]]
 file = "kubejs/server_scripts/difficulty_increase.js"
-hash = "a82c16fa1ded83b0dbac2d7c2b5992fa0f834fdcc1bdd22fb1fa4fedeab1013e"
+hash = "a47317c53340f6bbe9ee9f06a4fa3d71aee0a830eeb9fdc48356e5a1bf5e7a75"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -909,6 +909,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "d4cde23194f8b212ec407f69b4df859cdcfeffe65b09863d5fa072c36a6c8aad"
 metafile = true
 
 [[files]]
