@@ -907,11 +907,6 @@ hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "839ce8937b20373cb434a85df941fafff9700af389f05c0d60d60eb60fc93f37"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
 metafile = true
@@ -990,6 +985,10 @@ metafile = true
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
+
+[[files]]
+file = "mods/minecraft-command-permissions-1.6.1.jar"
+hash = "f51804bd10ae6e55a6c9d1f4c678d2f2fef9985f3f03547eb0b39bcf15ed4734"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"

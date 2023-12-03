@@ -14,3 +14,4 @@
 *.sh
 /.github/
 /config/inventoryprofilesnext/
+/kubejs/.node
