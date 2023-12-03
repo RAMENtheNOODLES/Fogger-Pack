@@ -1036,6 +1036,11 @@ hash = "98238b40e54f717063e49b3672815b23f2be871a8d297f8c964339dd518cbf10"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "ee94afb53959dd6092a258147ac020aa8463761e3b9b36ff1a4e1c0156238c26"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "91b6ddaebfb96b92e89d69123606266fd1109190131061d9a8f58e9f9f7a91ff"
 metafile = true
