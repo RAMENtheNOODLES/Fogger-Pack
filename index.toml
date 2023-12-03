@@ -390,7 +390,7 @@ hash = "6291e36267376773c960ef108ec9e5513c1e37020c7bc08c515bbb12e08d5653"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "e1f64cea2826071b0f5378f581fbda2b47f49c2ea4377f12d0056ae31f398ce9"
+hash = "b30022fe747af5b629b8fa148f3ef354e9bc3e72c7e1c46cd292275eb6658801"
 
 [[files]]
 file = "config/supplementaries-client.json"
@@ -704,8 +704,9 @@ hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
 
 [[files]]
-file = "mods/cave_dweller-1.20.1.jar"
-hash = "c5a89698ff1a3becb01bf29c5cfc1a80d0981a01d33908bd2a3d72896ff905eb"
+file = "mods/cave-dweller-fabric.pw.toml"
+hash = "64714598d33f89fb868c2a073d5e6738370d543c97c66c3506629257424d185d"
+metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
