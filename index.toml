@@ -704,9 +704,8 @@ hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller-evolved-(fabric).pw.toml"
-hash = "0fd43bbc18fa1d9501c626a781ffcb27cf7777ca4d67be7707514882a95d9fec"
-metafile = true
+file = "mods/cave_dweller-1.20.1.jar"
+hash = "c5a89698ff1a3becb01bf29c5cfc1a80d0981a01d33908bd2a3d72896ff905eb"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
