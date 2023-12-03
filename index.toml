@@ -486,7 +486,7 @@ hash = "eb8b83f00d240ca760020bf42eb89e542e576b096701e55500a225d66d31052a"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
-hash = "de3008003e94cd7758071669d3e19333ffb9d6365928640b6e8a67cab69ff956"
+hash = "5f730906eebed339c88d565fd1ab766f5237f4af86a71df3f5bb8daaf8b06e6a"
 
 [[files]]
 file = "config/yosbr/options.txt"
