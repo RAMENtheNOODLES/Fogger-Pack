@@ -843,6 +843,10 @@ hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api-v0.2.jar"
+hash = "6534d79ae1b7f1bba3a967311f4ab2ae73ce9b756d865c5f2406e9e9bb7285f2"
+
+[[files]]
 file = "mods/fabric-seasons-croptopia-compat.pw.toml"
 hash = "ab827efb520132f3e1ef1157bfdbba3977f379690f7e4ab4ce92a0fc70b5b471"
 metafile = true
@@ -992,8 +996,8 @@ hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-command-permissions-1.6.1.jar"
-hash = "f51804bd10ae6e55a6c9d1f4c678d2f2fef9985f3f03547eb0b39bcf15ed4734"
+file = "mods/minecraft-command-permissions-1.6.2.jar"
+hash = "aaa5ddc4f558573008670b6e3c89aa7e53d3cbc628affd279756959d16ce4b23"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
