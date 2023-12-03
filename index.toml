@@ -334,7 +334,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "21d61f3241f08a10f7176b4e777ac6e3b0a54554b3cbf7a4e5a81e68cadba0b8"
+hash = "ffc476f8b0141d0831188934874414dc9a3fa23c3ef4e740e9891e5440cbf315"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
