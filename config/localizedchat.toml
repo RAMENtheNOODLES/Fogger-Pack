@@ -1,7 +1,7 @@
 [restrictions]
-talkRange = 100
-shoutTalkRange = 100
-shoutFoodCost = 2147483647
+talkRange = 30
+shoutTalkRange = 70
+shoutFoodCost = 5
 opAsPlayer = false
 [miscellaneous]
 prefix = ""
