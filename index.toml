@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
+hash = "ebc7a77402069acd00a1a84eaeefc06c586035c31d7abbc941b9cf204afec2a9"
 metafile = true
 
 [[files]]
@@ -1073,6 +1073,11 @@ hash = "454a8ceed0014f42e0e5cc2c577f8f11b39bfcb55274fcda71d1ce2c05382462"
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "7868b15d73e524b8009505fa2112becb5a31e5c4cbdd7c46df4dc5ed9286c467"
 metafile = true
 
 [[files]]
