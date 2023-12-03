@@ -237,6 +237,10 @@ file = "config/indium-renderer.properties"
 hash = "d4f57452a113721e4100b9c01cd31ec18904501cd81f43710621d7d2006f31c0"
 
 [[files]]
+file = "config/item_obliterator.json"
+hash = "1f45c713a9a7dbe4a00b919e30aefe8a16fa083bfc436c3125c68322e814b277"
+
+[[files]]
 file = "config/itemscroller.json"
 hash = "acc2120be1bc9fd1c50b24ff674e0dd4970b8c056b49efca3ab9424dbcae00d8"
 
@@ -299,6 +303,10 @@ hash = "1ce156edd13da83bb8674fe0e9b91cbbdc3a4028baf7bea2bbaec2194412bfdd"
 [[files]]
 file = "config/nyfsspiders.json"
 hash = "507309e0ffd6ae56739c71701e7f4d6376c4c4728b88e3de886d08436c749325"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
