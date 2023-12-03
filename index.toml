@@ -638,11 +638,6 @@ file = "mods/Darkness.jar"
 hash = "c6bee15f8f8954095dfd3e8e7e337a6d550c6ed1e2aeaa6d107fc191fe1dd132"
 
 [[files]]
-file = "mods/accelerated-decay.pw.toml"
-hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
 metafile = true
@@ -737,8 +732,8 @@ hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller-fabric.pw.toml"
-hash = "64714598d33f89fb868c2a073d5e6738370d543c97c66c3506629257424d185d"
+file = "mods/cave-dweller-evolved-(fabric).pw.toml"
+hash = "0fd43bbc18fa1d9501c626a781ffcb27cf7777ca4d67be7707514882a95d9fec"
 metafile = true
 
 [[files]]
@@ -950,11 +945,6 @@ hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
-metafile = true
-
-[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "942cb7252713c61b53dff087aa20cf1de90262a1efd6e115a79a2be3ea8e2c24"
 metafile = true
@@ -1139,6 +1129,11 @@ hash = "dc0a117734b1153892a40e65301ee236c9dbe45930f04d7ab6967daaee11214a"
 metafile = true
 
 [[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "0ba81e465ca06be0502a7a5d625e4c73641ce91bb59746b6744ecb8af6ccf18f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4cdab4b97e6104ace9a5bf9a9a79891cc79098d11edf626e73ff5007d3b7947f"
 metafile = true
@@ -1171,11 +1166,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "97266e57430289d29fdd61e1ca1ccf1a6a73cb54393d383c4d662866190a94b6"
-metafile = true
-
-[[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "25c6c26c56658a11b6cdd930ba2403817c52718824033077615890a1d00ece32"
 metafile = true
 
 [[files]]
