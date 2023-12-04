@@ -799,6 +799,11 @@ hash = "82e0a174e16c0f33414fa89693f39f44bbd62a74fe927ae6620dfbd84d63a99b"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "a0320eb66131ddd97a3da7e13400b2c590ab6ac36e0f3d729c585a393dd927e7"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-music-updated.pw.toml"
 hash = "0255916c48646a6a415ac7470a63a5acc95f45c78c1674355e53b99d68b3e792"
 metafile = true
@@ -883,6 +888,11 @@ hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "fd954f7957b2e9b4be25004eb6956606ecf57d7ddfe96643af2579f024517daa"
+metafile = true
+
+[[files]]
 file = "mods/farsighted-mobs-fabric-1.1-1.18-1.19.jar"
 hash = "3490963e5dc685fd3861aad1f1e7e32ee7c065008cedf5a79875fa6e2e34da4f"
 
@@ -949,6 +959,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "aa752298c14f248526b0ceab443cf01a2d4a933a2b73a3efaebc976a6d5fc973"
 metafile = true
 
 [[files]]
