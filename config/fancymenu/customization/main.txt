@@ -186,14 +186,14 @@ customization {
   shadow = true
   splashfilepath = splashes.txt
   rotation = -20.0
-  scale = 2.0
+  scale = 2.5
   refresh = false
   bouncing = true
   vanilla-like = false
-  x = 631
+  x = 595
   actionid = 0d2ee295-f1ac-48a8-8d6b-048dee22c6681701745029611
   action = addsplash
-  y = 168
+  y = 145
 }
 
 customization {
