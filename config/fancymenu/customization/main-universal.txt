@@ -1,0 +1,33 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  universal_layout_whitelist = net.minecraft.class_526;
+  universal_layout_blacklist = net.minecraft.class_442;de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen;
+}
+
+customization {
+  path = background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = foggy_minecraft.png
+  orientation = top-left
+  x = 40
+  width = 173
+  action = addtexture
+  actionid = a9052207-4a4a-4338-8838-d992a949624a1701749567951
+  y = 33
+  height = 43
+}
+

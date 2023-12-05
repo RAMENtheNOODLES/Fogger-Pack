@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "4dcb70637ee9600a8ad03cf77633fdad23adc3f3c42f8dcdc2347181207fd5a3"
 
 [[files]]
+file = "background.png"
+hash = "7e3c0ad928821748572e1067130d870257457505348ca11655bac082d47778ae"
+
+[[files]]
 file = "config/GoodOlRegen.sf.ini"
 hash = "2013febc0b3e989750f638b8d604200bee990392ec27645d29a6099a27e05aaf"
 
@@ -145,6 +149,10 @@ file = "config/diggusmaximus/grouping.json5"
 hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
+
+[[files]]
 file = "config/dynmus/generalConfig.json"
 hash = "b24b1a696055413e0c1093e85d78d6983a4a1e3ab169909328ba593815de2457"
 
@@ -195,6 +203,90 @@ hash = "49f0088abdb22fe15b2a134e53005c9ea3944f2468a9e48d960fe5df25955df0"
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "73833f0da330edb0f0a20a41d48bf6d5ec5b835f6795e52ba439ece239d52b92"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "f7dfa699a8ebb4497e9c14e7c3e2694fd98cad1c9d0f7fbbddad10fae13a2e3b"
+
+[[files]]
+file = "config/fancymenu/customization/main-loading.txt"
+hash = "1bebb1ebfef6edcbdb01d6bb88c55849b651de603285555f98a0e05d9c214d86"
+
+[[files]]
+file = "config/fancymenu/customization/main-universal.txt"
+hash = "cde7979537b25650a8d9872bba0d2f630e8f1ef2dcfb8faed7a6d3591aa83e29"
+
+[[files]]
+file = "config/fancymenu/customization/main.txt"
+hash = "55c3ab83b43490b537fac72c9849614543adfa8abd8afb0c1633ec6fabfe5896"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_0.png"
+hash = "cacae651fe412f2af0b336e0a5f3a40b4cf2a2f30bfc114b8e51d2fed3cb617a"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_1.png"
+hash = "af7b13e992d69c23ee78b485556a0f9aeb816888ebfb754b2aa2fb555ae37eb7"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_2.png"
+hash = "313d16530e38d58c2ab197f1d299ba8e5f75bf338105a2cf48c55c58628789e7"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_3.png"
+hash = "95d625f859f8ee9fe2c92e85087cc61d8fede7f95757b9a7093515179f22a44e"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_4.png"
+hash = "fb9a069e6b56d6ae5f6e6e91aab08a0969f0e7739a436f2779f4fe5c77852ac4"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_5.png"
+hash = "6fb2352ded1d5f178d7d94a426384bcbdf9a098aa221f10f7947303865181ef4"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/properties.txt"
+hash = "3191cd1740758237900b8d52c421d13bd209370ee2f3eb921c521d5f889e4d86"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/farsighted_mobs.json5"
@@ -501,6 +593,18 @@ file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "fancymenu_data/last_world.fmdata"
+hash = "5481162e3790e60206540e2fe12d4ad019c3978fdbe798846313c8360405c030"
+
+[[files]]
+file = "foggy_minecraft.png"
+hash = "252b886ed181c725ef32864a4bb87ce89040b068ccf617b2e3710460f10f762d"
+
+[[files]]
+file = "foggy_smp.png"
+hash = "2d93f933f568695c7a8ebc0c23cb52251763f43dc0486dce5aa4734e195f9c6e"
+
+[[files]]
 file = "global_packs/required_resources/FoggySmpSplash.zip"
 hash = "df6d5ce8effccdefd4ccdc337342b3f2fa0bd9e04f753ae1d61626d5444dcddf"
 
@@ -515,6 +619,14 @@ hash = "cc3cf6f0724a8fc3d5275f895a62fd2d785b6ae61185d2068c317f440890195b"
 [[files]]
 file = "global_packs/required_resources/classic-fog-mc1.20.1-v1.1.2.zip"
 hash = "15e87e3eaa7ecafecd1ef1578fe0888fe38d18d5244a2e892e7e313d2989ff47"
+
+[[files]]
+file = "herobrine.png"
+hash = "c1574bd402c1522007ede2d905a9a13b1209e353d2c0df9bee1fbfc3035423b1"
+
+[[files]]
+file = "icon.png"
+hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
 
 [[files]]
 file = "kubejs/.idea/kubejs.iml"
@@ -1311,3 +1423,11 @@ metafile = true
 file = "resourcepacks/golden-days.pw.toml"
 hash = "62ce8c03de82639fe3edca433335d4790acfca70aac3a772698cf3cf2c739804"
 metafile = true
+
+[[files]]
+file = "splashes.txt"
+hash = "6ede4ee289a496ff42b25664569c1910ea6593b989158c24068222a6b340aabb"
+
+[[files]]
+file = "splashes.txt:Zone.Identifier"
+hash = "c78ad1526395779406edb9c67b944f27cb66ca96ab5e29447a0b178f2594f117"
