@@ -1427,7 +1427,3 @@ metafile = true
 [[files]]
 file = "splashes.txt"
 hash = "6ede4ee289a496ff42b25664569c1910ea6593b989158c24068222a6b340aabb"
-
-[[files]]
-file = "splashes.txt:Zone.Identifier"
-hash = "c78ad1526395779406edb9c67b944f27cb66ca96ab5e29447a0b178f2594f117"

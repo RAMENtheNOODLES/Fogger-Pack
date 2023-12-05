@@ -1,12 +1,12 @@
 name = "Fogger Pack"
 author = "CookieJAR499 & Co"
-version = "2.1.0"
+version = "2.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "62c1b0c93d4cdd0c11aeebfe20bac7bb7d73d8d1eb8c0442f69c9a56fbc71835"
+hash = "8427f272eb92df86780662dc99f61111303b20f3bd244f40f44ec12abee9a15a"
 
 [versions]
 fabric = "0.15.0"
