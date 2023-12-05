@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "4dcb70637ee9600a8ad03cf77633fdad23adc3f3c42f8dcdc2347181207fd5a3"
 
 [[files]]
+file = "background.png"
+hash = "7e3c0ad928821748572e1067130d870257457505348ca11655bac082d47778ae"
+
+[[files]]
 file = "config/GoodOlRegen.sf.ini"
 hash = "2013febc0b3e989750f638b8d604200bee990392ec27645d29a6099a27e05aaf"
 
@@ -145,6 +149,10 @@ file = "config/diggusmaximus/grouping.json5"
 hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
+
+[[files]]
 file = "config/dynmus/generalConfig.json"
 hash = "b24b1a696055413e0c1093e85d78d6983a4a1e3ab169909328ba593815de2457"
 
@@ -197,6 +205,90 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "73833f0da330edb0f0a20a41d48bf6d5ec5b835f6795e52ba439ece239d52b92"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "f7dfa699a8ebb4497e9c14e7c3e2694fd98cad1c9d0f7fbbddad10fae13a2e3b"
+
+[[files]]
+file = "config/fancymenu/customization/main-loading.txt"
+hash = "1bebb1ebfef6edcbdb01d6bb88c55849b651de603285555f98a0e05d9c214d86"
+
+[[files]]
+file = "config/fancymenu/customization/main-universal.txt"
+hash = "cde7979537b25650a8d9872bba0d2f630e8f1ef2dcfb8faed7a6d3591aa83e29"
+
+[[files]]
+file = "config/fancymenu/customization/main.txt"
+hash = "eb1876d6c264e6f7eceb09c54f792200aa28731a97596dbca2e6aa52d73dffac"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_0.png"
+hash = "cacae651fe412f2af0b336e0a5f3a40b4cf2a2f30bfc114b8e51d2fed3cb617a"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_1.png"
+hash = "af7b13e992d69c23ee78b485556a0f9aeb816888ebfb754b2aa2fb555ae37eb7"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_2.png"
+hash = "313d16530e38d58c2ab197f1d299ba8e5f75bf338105a2cf48c55c58628789e7"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_3.png"
+hash = "95d625f859f8ee9fe2c92e85087cc61d8fede7f95757b9a7093515179f22a44e"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_4.png"
+hash = "fb9a069e6b56d6ae5f6e6e91aab08a0969f0e7739a436f2779f4fe5c77852ac4"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_5.png"
+hash = "6fb2352ded1d5f178d7d94a426384bcbdf9a098aa221f10f7947303865181ef4"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/properties.txt"
+hash = "3191cd1740758237900b8d52c421d13bd209370ee2f3eb921c521d5f889e4d86"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/farsighted_mobs.json5"
 hash = "a9a0b086f0829e056fc9e3a0dc2dcc0125a94033565e76e3764154fa50e05147"
 
@@ -237,6 +329,10 @@ file = "config/indium-renderer.properties"
 hash = "d4f57452a113721e4100b9c01cd31ec18904501cd81f43710621d7d2006f31c0"
 
 [[files]]
+file = "config/item_obliterator.json"
+hash = "1f45c713a9a7dbe4a00b919e30aefe8a16fa083bfc436c3125c68322e814b277"
+
+[[files]]
 file = "config/itemscroller.json"
 hash = "acc2120be1bc9fd1c50b24ff674e0dd4970b8c056b49efca3ab9424dbcae00d8"
 
@@ -262,7 +358,7 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
 file = "config/localizedchat.toml"
-hash = "6360ffcdc49a2222bf040f339e99559249ef5be9520f85367d5a2abd2de1986c"
+hash = "15202aa684ccfb1c0f8ca1f82026812a35868c11f5b675a2560b83e26c8fbdf8"
 
 [[files]]
 file = "config/malilib.json"
@@ -301,6 +397,10 @@ file = "config/nyfsspiders.json"
 hash = "507309e0ffd6ae56739c71701e7f4d6376c4c4728b88e3de886d08436c749325"
 
 [[files]]
+file = "config/patchouli.json5"
+hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
+
+[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
@@ -326,7 +426,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "21d61f3241f08a10f7176b4e777ac6e3b0a54554b3cbf7a4e5a81e68cadba0b8"
+hash = "ffc476f8b0141d0831188934874414dc9a3fa23c3ef4e740e9891e5440cbf315"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -486,11 +586,23 @@ hash = "eb8b83f00d240ca760020bf42eb89e542e576b096701e55500a225d66d31052a"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
-hash = "de3008003e94cd7758071669d3e19333ffb9d6365928640b6e8a67cab69ff956"
+hash = "5f730906eebed339c88d565fd1ab766f5237f4af86a71df3f5bb8daaf8b06e6a"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "fancymenu_data/last_world.fmdata"
+hash = "5481162e3790e60206540e2fe12d4ad019c3978fdbe798846313c8360405c030"
+
+[[files]]
+file = "foggy_minecraft.png"
+hash = "252b886ed181c725ef32864a4bb87ce89040b068ccf617b2e3710460f10f762d"
+
+[[files]]
+file = "foggy_smp.png"
+hash = "2d93f933f568695c7a8ebc0c23cb52251763f43dc0486dce5aa4734e195f9c6e"
 
 [[files]]
 file = "global_packs/required_resources/FoggySmpSplash.zip"
@@ -507,6 +619,14 @@ hash = "cc3cf6f0724a8fc3d5275f895a62fd2d785b6ae61185d2068c317f440890195b"
 [[files]]
 file = "global_packs/required_resources/classic-fog-mc1.20.1-v1.1.2.zip"
 hash = "15e87e3eaa7ecafecd1ef1578fe0888fe38d18d5244a2e892e7e313d2989ff47"
+
+[[files]]
+file = "herobrine.png"
+hash = "c1574bd402c1522007ede2d905a9a13b1209e353d2c0df9bee1fbfc3035423b1"
+
+[[files]]
+file = "icon.png"
+hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
 
 [[files]]
 file = "kubejs/.idea/kubejs.iml"
@@ -554,11 +674,19 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "3cb060c9496b9dd5c1b039294256131b1bfb152dfe2ee59c8b06e3fa4f14c30d"
+hash = "c7345d45a91cc19c7b88f2c9ed03181270c0bdbc78e31e5780bb8512194225c9"
 
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "81cd7290817882656eeb00ff434032d1f6e91582c96510b8da81e86d68125d77"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "95488641e3f7a4ab2ee8d42d37ab54d26d6bf3b5d3da4ad459011efa1d5e93a6"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "74b817caf0cc1abc65e1f0a3ef6179c5af1f5d67849913d75ba29b6ba6d9658e"
 
 [[files]]
 file = "kubejs/server_scripts/.idea/.name"
@@ -578,7 +706,7 @@ hash = "c374d10447094e0601474dfce5399f5aee4fd4b94d53e6e52a5d0d5ffdb76454"
 
 [[files]]
 file = "kubejs/server_scripts/difficulty_increase.js"
-hash = "a82c16fa1ded83b0dbac2d7c2b5992fa0f834fdcc1bdd22fb1fa4fedeab1013e"
+hash = "a47317c53340f6bbe9ee9f06a4fa3d71aee0a830eeb9fdc48356e5a1bf5e7a75"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -694,6 +822,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
@@ -778,6 +911,11 @@ hash = "82e0a174e16c0f33414fa89693f39f44bbd62a74fe927ae6620dfbd84d63a99b"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "a0320eb66131ddd97a3da7e13400b2c590ab6ac36e0f3d729c585a393dd927e7"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-music-updated.pw.toml"
 hash = "0255916c48646a6a415ac7470a63a5acc95f45c78c1674355e53b99d68b3e792"
 metafile = true
@@ -843,6 +981,10 @@ hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api-v0.2.jar"
+hash = "6534d79ae1b7f1bba3a967311f4ab2ae73ce9b756d865c5f2406e9e9bb7285f2"
+
+[[files]]
 file = "mods/fabric-seasons-croptopia-compat.pw.toml"
 hash = "ab827efb520132f3e1ef1157bfdbba3977f379690f7e4ab4ce92a0fc70b5b471"
 metafile = true
@@ -855,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "fd954f7957b2e9b4be25004eb6956606ecf57d7ddfe96643af2579f024517daa"
 metafile = true
 
 [[files]]
@@ -907,13 +1054,13 @@ hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "839ce8937b20373cb434a85df941fafff9700af389f05c0d60d60eb60fc93f37"
+file = "mods/indium.pw.toml"
+hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
+file = "mods/item-obliterator.pw.toml"
+hash = "d4cde23194f8b212ec407f69b4df859cdcfeffe65b09863d5fa072c36a6c8aad"
 metafile = true
 
 [[files]]
@@ -924,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "aa752298c14f248526b0ceab443cf01a2d4a933a2b73a3efaebc976a6d5fc973"
 metafile = true
 
 [[files]]
@@ -952,6 +1104,11 @@ hash = "c7e8c7d30f80fab35c6f1aee8cf66f7ebd3923fa43b4a52a1f9ae4b6fc34df3d"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
@@ -973,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
+hash = "ebc7a77402069acd00a1a84eaeefc06c586035c31d7abbc941b9cf204afec2a9"
 metafile = true
 
 [[files]]
@@ -990,6 +1147,10 @@ metafile = true
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
+
+[[files]]
+file = "mods/minecraft-command-permissions-1.6.3.jar"
+hash = "afb10bda0b88ba1ae05a0cda8bbd75d3e0757d72d848e87a2a7cacedcd4e03e4"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -1029,6 +1190,11 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "98238b40e54f717063e49b3672815b23f2be871a8d297f8c964339dd518cbf10"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "ee94afb53959dd6092a258147ac020aa8463761e3b9b36ff1a4e1c0156238c26"
 metafile = true
 
 [[files]]
@@ -1073,6 +1239,11 @@ hash = "454a8ceed0014f42e0e5cc2c577f8f11b39bfcb55274fcda71d1ce2c05382462"
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "7868b15d73e524b8009505fa2112becb5a31e5c4cbdd7c46df4dc5ed9286c467"
 metafile = true
 
 [[files]]
@@ -1158,6 +1329,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
@@ -1247,3 +1423,11 @@ metafile = true
 file = "resourcepacks/golden-days.pw.toml"
 hash = "62ce8c03de82639fe3edca433335d4790acfca70aac3a772698cf3cf2c739804"
 metafile = true
+
+[[files]]
+file = "splashes.txt"
+hash = "6ede4ee289a496ff42b25664569c1910ea6593b989158c24068222a6b340aabb"
+
+[[files]]
+file = "splashes.txt:Zone.Identifier"
+hash = "c78ad1526395779406edb9c67b944f27cb66ca96ab5e29447a0b178f2594f117"

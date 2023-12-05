@@ -40,6 +40,8 @@ ServerEvents.recipes(event => {
     event.remove({ output: "vs_eureka:engine" })
     event.remove({ output: 'vs_eureka:floater' })
     event.remove({ output: '#vs_eureka:ship_helms' })
+    
+    event.remove({ output: "minecraft:shield" })
 
     console.log('Hello! The recipe event has fired!')
 })

@@ -17,7 +17,14 @@
 	#Range: 1 ~ 100
 	teleport_chance = 10
 	#A list of Dimensions that angels cannot teleport players to
-	banned_dimensions = []
+	banned_dimensions = [
+    "immersive_portals:alternate1",
+    "immersive_portals:alternate2",
+    "immersive_portals:alternate3",
+    "immersive_portals:alternate4",
+    "immersive_portals:alternate5",
+
+]
 	#Determines the range that a player can be teleported from their current location
 	#Range: > 1
 	teleport_range = 400

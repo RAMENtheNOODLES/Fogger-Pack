@@ -1,0 +1,67 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = best_panorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = false
+  x = 30
+  width = 504
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 3787ebf0-6986-4c22-88aa-29927d4fff101701745278428
+  y = 30
+  height = 126
+}
+
+customization {
+  custom_color_hex = #000000
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 8707bdc1-ba82-41ed-8c8d-b3e35d0a94c11701745278430
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 228
+  width = 504
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 56944bbe-9ac7-485b-9262-309d1c446d991701745278430
+  y = 415
+  height = 10
+}
+
+customization {
+  path = foggy_minecraft.png
+  orientation = mid-centered
+  x = -316
+  width = 634
+  action = addtexture
+  actionid = 588fcde7-9f64-4afd-9363-aaefda08bee71701745407948
+  y = -80
+  height = 158
+}
+

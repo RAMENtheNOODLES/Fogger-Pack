@@ -8,3 +8,4 @@ mod.sh
 /*.md
 mod_list.sh
 config/inventoryprofilesnext/
+git.sh
