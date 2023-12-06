@@ -210,7 +210,7 @@ hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f7dfa699a8ebb4497e9c14e7c3e2694fd98cad1c9d0f7fbbddad10fae13a2e3b"
+hash = "16fca833bce4c02493078510126f48da82e23054e17e4c038fbfa50db8c28dc0"
 
 [[files]]
 file = "config/fancymenu/customization/main-loading.txt"
@@ -218,11 +218,11 @@ hash = "1bebb1ebfef6edcbdb01d6bb88c55849b651de603285555f98a0e05d9c214d86"
 
 [[files]]
 file = "config/fancymenu/customization/main-universal.txt"
-hash = "cde7979537b25650a8d9872bba0d2f630e8f1ef2dcfb8faed7a6d3591aa83e29"
+hash = "dba47deb44580d8d47e43f54e427fd928d86369d1ea28760c53b2c50e941e314"
 
 [[files]]
 file = "config/fancymenu/customization/main.txt"
-hash = "eb1876d6c264e6f7eceb09c54f792200aa28731a97596dbca2e6aa52d73dffac"
+hash = "cccc53de906830561a3488040be91500bb96d8023cc02e5c9948326ad094e63b"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"

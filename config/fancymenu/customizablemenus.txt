@@ -48,3 +48,12 @@ net.minecraft.class_5375 {
 net.minecraft.class_6777 {
 }
 
+net.minecraft.class_443 {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+net.minecraft.class_526 {
+}
+
