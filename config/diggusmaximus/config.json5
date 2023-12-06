@@ -10,9 +10,9 @@
 	// Should mine diagonally, excludes shape excavating
 	"mineDiag": true,
 	// Maximum number of blocks to mine
-	"maxMinedBlocks": 20,
+	"maxMinedBlocks": 5,
 	// Maximum distance from start to mine
-	"maxMineDistance": 10,
+	"maxMineDistance": 3,
 	// Automatically pick up drops
 	"autoPickup": true,
 	// Tool required to excavate
@@ -26,7 +26,7 @@
 	// Should player get exhaustion
 	"playerExhaustion": true,
 	// Multiply exhaustion when excavating
-	"exhaustionMultiplier": 1.0,
+	"exhaustionMultiplier": 2.0,
 	// Other items to be considered tools ie: "minecraft:stick"
 	"tools": []
 }

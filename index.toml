@@ -134,11 +134,11 @@ hash = "4935e97cb602d451b0dfbedb1b07c873db9da5e0e0125c13cc8a7959b7257e93"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
-hash = "3f937ebbb54b8a97d8f6992966f757554f9000522d3f51312562d7637da74bd7"
+hash = "cb148260eccdd6e0da9106899308983c6fa89afdfd8f1be2aef8363c42324bc7"
 
 [[files]]
 file = "config/diggusmaximus/config.json5"
-hash = "ea90e14d36bbf9ff85e35ec8b5b566554577dba179d676b586e2029e16032010"
+hash = "ec12c3c463e3845fc28bd1724e373d2015616cd6bb15de30200e518aa06c6a97"
 
 [[files]]
 file = "config/diggusmaximus/excavatingshapes.json5"
@@ -414,7 +414,7 @@ hash = "a4ceb0a7614df2f68aadc561e2e9a8ce7d79937d791b26501615461d7231f66c"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "7833f5670014ca6f671d294de00abaaa25212311278221f816f93c9709094d85"
+hash = "f83014fbd75aa29bffca192b83fed14c8602103b885afb72b89c3cf8d9dc1568"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -819,6 +819,11 @@ hash = "7b05192a1d2b86e813f7aa8aaff2f612bb0cad1ad4121f003533920e6b536dc0"
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "9052020b243f263b9fb06c3e548d494df206a4e7c8418f3b43772504d0beb493"
 metafile = true
 
 [[files]]

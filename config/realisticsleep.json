@@ -9,7 +9,7 @@
   "sendNotEnoughPlayersSleepingMessage": true,
   "allowDaySleeping": false,
   "sleepSpeedCurve": "LINEAR",
-  "sleepSpeedMultiplier": 25.0,
+  "sleepSpeedMultiplier": 3,
   "blockEntityTickSpeedMultiplier": 25.0,
   "chunkTickSpeedMultiplier": 1.0,
   "raidTickSpeedMultiplier": 25.0,
