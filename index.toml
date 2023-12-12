@@ -1382,6 +1382,11 @@ hash = "e5f0df30497b8b1afc29603612492734a46c33553a4fd0ea377ce29f7fa5ff01"
 metafile = true
 
 [[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "1f976970bc7f5769040d6d5848c5850ccc00191c186240e9abbce3fa348c7a97"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
