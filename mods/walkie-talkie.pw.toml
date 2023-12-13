@@ -1,0 +1,13 @@
+name = "Walkie-Talkie"
+filename = "walkietalkie-fabric-1.20-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yaRitiLw/versions/laZHzVty/walkietalkie-fabric-1.20-1.20.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "139e90c9f4a2e00bf60017ad1a884859e00c7363"
+
+[update]
+[update.modrinth]
+mod-id = "yaRitiLw"
+version = "laZHzVty"

@@ -170,33 +170,6 @@ customization {
 }
 
 customization {
-  path = foggy_minecraft.png
-  orientation = mid-centered
-  x = -244
-  width = 489
-  action = addtexture
-  actionid = aec67d60-18af-42ad-bd80-691f43320c2e1701732783215
-  y = -195
-  height = 122
-}
-
-customization {
-  orientation = top-left
-  basecolor = #ffff00
-  shadow = true
-  splashfilepath = splashes.txt
-  rotation = -20.0
-  scale = 2.5
-  refresh = false
-  bouncing = true
-  vanilla-like = false
-  x = 595
-  actionid = 0d2ee295-f1ac-48a8-8d6b-048dee22c6681701745029611
-  action = addsplash
-  y = 145
-}
-
-customization {
   path = herobrine.png
   orientation = top-left
   x = 622
@@ -204,6 +177,42 @@ customization {
   action = addtexture
   actionid = b311d1ee-eeac-4f50-8d35-186c472f404e1701745175778
   y = 194
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:62c2f5b4-f7ff-4318-bd9d-702c4613250a1701900238490] = 1919
   height = 621
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/4.15","decimal":"false"}}
+  path = foggy_minecraft.png
+  orientation = top-left
+  x = 0
+  width = 489
+  action = addtexture
+  actionid = aec67d60-18af-42ad-bd80-691f43320c2e1701732783215
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"} / 2) - ({"placeholder":"elementwidth","values":{"id":"aec67d60-18af-42ad-bd80-691f43320c2e1701732783215"}} / 2)","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/1.962","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"} / 6","decimal":"true"}}
+  height = 122
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/11.1","decimal":"false"}}
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = splashes.txt
+  rotation = -20.0
+  scale = 2.5
+  refresh = true
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/7.1","decimal":"false"}}
+  bouncing = true
+  vanilla-like = false
+  orientation_element = aec67d60-18af-42ad-bd80-691f43320c2e1701732783215
+  x = 386
+  actionid = 0d2ee295-f1ac-48a8-8d6b-048dee22c6681701745029611
+  action = addsplash
+  y = 85
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:02517043-f934-4f0b-996b-b90b38f8fc901701900147547] = 1919
 }
 

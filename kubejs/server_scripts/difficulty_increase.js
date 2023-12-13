@@ -40,6 +40,11 @@ ServerEvents.recipes(event => {
     event.remove({ output: "vs_eureka:engine" })
     event.remove({ output: 'vs_eureka:floater' })
     event.remove({ output: '#vs_eureka:ship_helms' })
+
+    event.remove({ output: 'walkietalkie:wooden_walkietalkie'})
+    event.remove({ output: 'walkietalkie:stone_walkietalkie'})
+    event.remove({ output: 'walkietalkie:iron_walkietalkie'})
+    event.remove({ output: 'walkietalkie:diamond_walkietalkie'})
     
     event.remove({ output: "minecraft:shield" })
 

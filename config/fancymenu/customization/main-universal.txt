@@ -11,23 +11,18 @@ customization-meta {
 }
 
 customization {
-  path = background.png
-  action = texturizebackground
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
 
 customization {
   path = foggy_minecraft.png
-  orientation = top-left
-  x = 40
+  orientation = bottom-right
+  x = -173
   width = 173
   action = addtexture
   actionid = a9052207-4a4a-4338-8838-d992a949624a1701749567951
-  y = 33
+  y = -43
   height = 43
 }
 

@@ -29,6 +29,10 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/WalkieTalkie.properties"
+hash = "ee4b6165eaad5341e0c8e3505d22227c21c41836871ef1c6cdb1d5e0977be259"
+
+[[files]]
 file = "config/advancementplaques-common.toml"
 hash = "9281681b7437ae88748d64fc1b0a9cde56c77cb73aad589f0862d385cbc42bbb"
 
@@ -134,11 +138,11 @@ hash = "4935e97cb602d451b0dfbedb1b07c873db9da5e0e0125c13cc8a7959b7257e93"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
-hash = "3f937ebbb54b8a97d8f6992966f757554f9000522d3f51312562d7637da74bd7"
+hash = "cb148260eccdd6e0da9106899308983c6fa89afdfd8f1be2aef8363c42324bc7"
 
 [[files]]
 file = "config/diggusmaximus/config.json5"
-hash = "ea90e14d36bbf9ff85e35ec8b5b566554577dba179d676b586e2029e16032010"
+hash = "ec12c3c463e3845fc28bd1724e373d2015616cd6bb15de30200e518aa06c6a97"
 
 [[files]]
 file = "config/diggusmaximus/excavatingshapes.json5"
@@ -210,7 +214,7 @@ hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f7dfa699a8ebb4497e9c14e7c3e2694fd98cad1c9d0f7fbbddad10fae13a2e3b"
+hash = "16fca833bce4c02493078510126f48da82e23054e17e4c038fbfa50db8c28dc0"
 
 [[files]]
 file = "config/fancymenu/customization/main-loading.txt"
@@ -218,11 +222,11 @@ hash = "1bebb1ebfef6edcbdb01d6bb88c55849b651de603285555f98a0e05d9c214d86"
 
 [[files]]
 file = "config/fancymenu/customization/main-universal.txt"
-hash = "cde7979537b25650a8d9872bba0d2f630e8f1ef2dcfb8faed7a6d3591aa83e29"
+hash = "dba47deb44580d8d47e43f54e427fd928d86369d1ea28760c53b2c50e941e314"
 
 [[files]]
 file = "config/fancymenu/customization/main.txt"
-hash = "eb1876d6c264e6f7eceb09c54f792200aa28731a97596dbca2e6aa52d73dffac"
+hash = "cccc53de906830561a3488040be91500bb96d8023cc02e5c9948326ad094e63b"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -414,7 +418,7 @@ hash = "a4ceb0a7614df2f68aadc561e2e9a8ce7d79937d791b26501615461d7231f66c"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "7833f5670014ca6f671d294de00abaaa25212311278221f816f93c9709094d85"
+hash = "f83014fbd75aa29bffca192b83fed14c8602103b885afb72b89c3cf8d9dc1568"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -706,7 +710,7 @@ hash = "c374d10447094e0601474dfce5399f5aee4fd4b94d53e6e52a5d0d5ffdb76454"
 
 [[files]]
 file = "kubejs/server_scripts/difficulty_increase.js"
-hash = "a47317c53340f6bbe9ee9f06a4fa3d71aee0a830eeb9fdc48356e5a1bf5e7a75"
+hash = "4c1e1dbc875f0dd2be026617c430beaa8d309772c824362a09b2d8a9a9c19918"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -714,7 +718,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/other_recipes.js"
-hash = "6110a349f141388dfdea075b43d12c923a59ca91c222f6c313e51b54604c07a5"
+hash = "811f455c384cc9cbcb76e7975e81b7c8c979acaabb532313e13be2d9acccb676"
 
 [[files]]
 file = "kubejs/server_scripts/vs_engines.js"
@@ -819,6 +823,11 @@ hash = "7b05192a1d2b86e813f7aa8aaff2f612bb0cad1ad4121f003533920e6b536dc0"
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "9052020b243f263b9fb06c3e548d494df206a4e7c8418f3b43772504d0beb493"
 metafile = true
 
 [[files]]
@@ -1374,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "e5f0df30497b8b1afc29603612492734a46c33553a4fd0ea377ce29f7fa5ff01"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "1f976970bc7f5769040d6d5848c5850ccc00191c186240e9abbce3fa348c7a97"
 metafile = true
 
 [[files]]
