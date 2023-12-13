@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+hash = "f807daaf864e31cda13dc9699a1ad1b2f9066ba2411feb58dfa3cca942b61d23"
 metafile = true
 
 [[files]]
@@ -903,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "8361392d5f517beb700ee5367c05c81448dba6d2becae59e37dd2720157d38c9"
+metafile = true
+
+[[files]]
+file = "mods/custom-stars.pw.toml"
+hash = "d5ca07695b23ff52481c4ec9c6346a0c48fc2d83ec487fccac2ef129a35564bd"
 metafile = true
 
 [[files]]
@@ -981,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
@@ -1167,6 +1172,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modern-beta.pw.toml"
+hash = "9557009bff6fd7d1be4db8f40b8e561c3336d2d7da9a06e448f8e8555ae65c57"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -1219,6 +1229,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
+file = "mods/nostalgic-tweaks.pw.toml"
+hash = "8ade25db79a85c5e81daa87e810a7cbd3fb0c49b2e9bd935849bdec724073dcd"
 metafile = true
 
 [[files]]
