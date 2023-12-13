@@ -1219,11 +1219,6 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
-file = "mods/nostalgic-tweaks.pw.toml"
-hash = "8ade25db79a85c5e81daa87e810a7cbd3fb0c49b2e9bd935849bdec724073dcd"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
