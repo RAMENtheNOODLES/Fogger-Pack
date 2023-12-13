@@ -1143,11 +1143,6 @@ hash = "e1900e4610519d230a1f6b486b2311e038f41abf34e3cf66ef261f9fc03983a3"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "ebc7a77402069acd00a1a84eaeefc06c586035c31d7abbc941b9cf204afec2a9"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
