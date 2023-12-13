@@ -29,6 +29,10 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/WalkieTalkie.properties"
+hash = "ee4b6165eaad5341e0c8e3505d22227c21c41836871ef1c6cdb1d5e0977be259"
+
+[[files]]
 file = "config/advancementplaques-common.toml"
 hash = "9281681b7437ae88748d64fc1b0a9cde56c77cb73aad589f0862d385cbc42bbb"
 
@@ -706,7 +710,7 @@ hash = "c374d10447094e0601474dfce5399f5aee4fd4b94d53e6e52a5d0d5ffdb76454"
 
 [[files]]
 file = "kubejs/server_scripts/difficulty_increase.js"
-hash = "a47317c53340f6bbe9ee9f06a4fa3d71aee0a830eeb9fdc48356e5a1bf5e7a75"
+hash = "4c1e1dbc875f0dd2be026617c430beaa8d309772c824362a09b2d8a9a9c19918"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -714,7 +718,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/other_recipes.js"
-hash = "6110a349f141388dfdea075b43d12c923a59ca91c222f6c313e51b54604c07a5"
+hash = "811f455c384cc9cbcb76e7975e81b7c8c979acaabb532313e13be2d9acccb676"
 
 [[files]]
 file = "kubejs/server_scripts/vs_engines.js"
@@ -1379,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "e5f0df30497b8b1afc29603612492734a46c33553a4fd0ea377ce29f7fa5ff01"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "1f976970bc7f5769040d6d5848c5850ccc00191c186240e9abbce3fa348c7a97"
 metafile = true
 
 [[files]]
