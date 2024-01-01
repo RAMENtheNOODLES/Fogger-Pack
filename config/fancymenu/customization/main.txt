@@ -14,6 +14,17 @@ customization {
 }
 
 customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1009
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -193,7 +204,7 @@ customization {
   advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"} / 2) - ({"placeholder":"elementwidth","values":{"id":"aec67d60-18af-42ad-bd80-691f43320c2e1701732783215"}} / 2)","decimal":"true"}}
   advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/1.962","decimal":"false"}}
   advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"} / 6","decimal":"true"}}
-  height = 122
+  height = 130
 }
 
 customization {
