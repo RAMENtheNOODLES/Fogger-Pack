@@ -950,6 +950,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "09f11d5765ce4bdc7a16dca313b7939b6c245644aee59d81bba9ee91144e777b"
 metafile = true
@@ -1285,11 +1290,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4cdab4b97e6104ace9a5bf9a9a79891cc79098d11edf626e73ff5007d3b7947f"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "ae9f8aab8ab115688b981f290bc59db0de3b982e0a828b2ece38c41130b46a08"
 metafile = true
 
 [[files]]
