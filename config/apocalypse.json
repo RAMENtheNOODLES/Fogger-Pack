@@ -10,7 +10,7 @@
     "PersistentZombies": true
   },
   "zombie": {
-    "attackSpeed": 1.5,
+    "attackSpeed": 1.25,
     "burnsInDaylight": true,
     "avoidSunlight": true,
     "pathThroughDoors": true,
@@ -47,3 +47,4 @@
     "maximumTargetHardness": 20
   }
 }
+
