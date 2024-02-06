@@ -106,7 +106,7 @@ hash = "dd95721929538c1db8a851cbaf1fe1b8b2327e5e03f382957814b2c5dc05bbf7"
 
 [[files]]
 file = "config/cave-dweller-config.json5"
-hash = "68c8c3a3e455f6c4691d88b5ee35b5db5130c4043b59b16b58960df7b62e926b"
+hash = "8989bb2f57961a29233e1f7695c00d83cfbb99c5b659a540b11785cfb5d95372"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -210,7 +210,7 @@ hash = "73833f0da330edb0f0a20a41d48bf6d5ec5b835f6795e52ba439ece239d52b92"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "ba9a318b83aac1fa175cf6ec41de8b52914ea7083d4877e1fd8145542f83ea93"
+hash = "035a8ee4801be4ffc6b5cc3ac65f16eb480c1114c1696ae72c563f8f76ff7af9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -294,7 +294,7 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/farsighted_mobs.json5"
-hash = "a9a0b086f0829e056fc9e3a0dc2dcc0125a94033565e76e3764154fa50e05147"
+hash = "c05174af051bbeb643182a8557cf25d51a7586fc02fcc669cd0e4277a010202e"
 
 [[files]]
 file = "config/fastquit.toml"
@@ -334,7 +334,7 @@ hash = "d4f57452a113721e4100b9c01cd31ec18904501cd81f43710621d7d2006f31c0"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "1f45c713a9a7dbe4a00b919e30aefe8a16fa083bfc436c3125c68322e814b277"
+hash = "9a47b6a79b035f653277d1f62ddb346fe5d524806bc0d128efb925fa259c3f84"
 
 [[files]]
 file = "config/itemscroller.json"
@@ -570,7 +570,7 @@ hash = "90112f18bade364f2dff0e15cc100836511e020284da74ecf883a7ad69c7f940"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "5453c7d6920b2e6c6bfa9be13fa4bb151e8669744b65e3ed451c8f500c9d76ed"
+hash = "f92a474390aba57de4397dbf4ef0a2ea07b30b046909e025fedc3fbeec512e79"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -710,7 +710,7 @@ hash = "c374d10447094e0601474dfce5399f5aee4fd4b94d53e6e52a5d0d5ffdb76454"
 
 [[files]]
 file = "kubejs/server_scripts/difficulty_increase.js"
-hash = "4a504686688dde9f80e447ad02da7be3ea75c9038b455bcdaee3c5cbe0b19828"
+hash = "fcac7e394bf88572be7f1f1a9a660adf6a81538e43447a481fe5f5912f7a61c6"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
