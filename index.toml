@@ -42,7 +42,7 @@ hash = "bafdc53b21f11eadd6c1a932a9dcb7f7ec9e503be98cbd81ce92c17228be7439"
 
 [[files]]
 file = "config/apocalypse.json"
-hash = "6085826a547950286c5dee6c30de0589c8983f29d640954e35d5fa922371c508"
+hash = "6f836d27c93d7a076f377df250e4413e5b534de2684072aa88b84f35277dbaa2"
 
 [[files]]
 file = "config/armorchroma.json"
@@ -134,7 +134,7 @@ hash = "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb"
 
 [[files]]
 file = "config/darkness.properties"
-hash = "4935e97cb602d451b0dfbedb1b07c873db9da5e0e0125c13cc8a7959b7257e93"
+hash = "2f86b7582097dab7a38dd66d5eb3dfbf562e7be28b031062c852a98d8fc9e4e5"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
@@ -710,7 +710,7 @@ hash = "c374d10447094e0601474dfce5399f5aee4fd4b94d53e6e52a5d0d5ffdb76454"
 
 [[files]]
 file = "kubejs/server_scripts/difficulty_increase.js"
-hash = "4c1e1dbc875f0dd2be026617c430beaa8d309772c824362a09b2d8a9a9c19918"
+hash = "4a504686688dde9f80e447ad02da7be3ea75c9038b455bcdaee3c5cbe0b19828"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -764,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/apocalypse.pw.toml"
 hash = "879fe211eb8000770f0be35c7794600546851d98064d688cbb908469299842d5"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
 
 [[files]]
@@ -991,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
