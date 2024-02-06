@@ -334,7 +334,7 @@ hash = "d4f57452a113721e4100b9c01cd31ec18904501cd81f43710621d7d2006f31c0"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "9a47b6a79b035f653277d1f62ddb346fe5d524806bc0d128efb925fa259c3f84"
+hash = "597a20b5268c21732700abf7108e2a762c4cdf7b7525663fc99ab8fbaeea75db"
 
 [[files]]
 file = "config/itemscroller.json"
@@ -1074,11 +1074,6 @@ hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
-metafile = true
-
-[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "d4cde23194f8b212ec407f69b4df859cdcfeffe65b09863d5fa072c36a6c8aad"
 metafile = true
@@ -1234,11 +1229,6 @@ hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "5cfefe7b4175d9ba773aeae441f47e14cad5221e947f9067ee4881598ef89507"
-metafile = true
-
-[[files]]
 file = "mods/nyctophobia-dread.pw.toml"
 hash = "e28e2a6da9457c802b26ccf43476e15536cba58ff76bb808457ef22a73701fb9"
 metafile = true
@@ -1293,11 +1283,6 @@ hash = "0ba81e465ca06be0502a7a5d625e4c73641ce91bb59746b6744ecb8af6ccf18f"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "4cdab4b97e6104ace9a5bf9a9a79891cc79098d11edf626e73ff5007d3b7947f"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
 metafile = true
@@ -1330,11 +1315,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "47e5a05f7c99cbd4aa74f0ac7c1bffcf97ddff9125dc346862abb4dd6f7a51df"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "bc9185b2c1ed3389b68455f4540ec57a676906e523675f323a148d1ebdb18ef8"
 metafile = true
 
 [[files]]
