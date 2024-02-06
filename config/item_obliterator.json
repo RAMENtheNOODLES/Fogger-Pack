@@ -6,7 +6,16 @@
     "minecraft:elytra",
     "weeping_angels:snow_angel",
     "weeping_angels:angel_spawner",
-    "vs_eureka:floater"
+    "vs_eureka:floater",
+    "supplementaries:cog_block",
+    "supplementaries:relayer",
+    "supplementaries:spring_launcher",
+    "supplementaries:speaker_block",
+    "supplementaries:turn_table",
+    "supplementaries:pulley_block",
+    "supplementaries:bellows",
+    "supplementaries:crystal_display",
+    "supplementaries:globe_sepia"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",
