@@ -5,7 +5,8 @@
     "minecraft:shield",
     "minecraft:elytra",
     "weeping_angels:snow_angel",
-    "weeping_angels:angel_spawner"
+    "weeping_angels:angel_spawner",
+    "vs_eureka:floater"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",

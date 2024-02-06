@@ -48,7 +48,5 @@ ServerEvents.recipes((event) => {
 
   event.remove({ output: "minecraft:shield" });
 
-  event.remove({ output: "vs_eureka:floater" });
-
   console.log("Hello! The recipe event has fired!");
 });
