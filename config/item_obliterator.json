@@ -5,7 +5,19 @@
     "minecraft:shield",
     "minecraft:elytra",
     "weeping_angels:snow_angel",
-    "weeping_angels:angel_spawner"
+    "weeping_angels:angel_spawner",
+    "vs_eureka:floater",
+    "supplementaries:sign_post_oak",
+    "supplementaries:sign_post_spruce",
+    "supplementaries:sign_post_birch",
+    "supplementaries:sign_post_jungle",
+    "supplementaries:sign_post_acacia",
+    "supplementaries:sign_post_dark_oak",
+    "supplementaries:sign_post_mangrove",
+    "supplementaries:sign_post_cherry",
+    "supplementaries:sign_post_bamboo",
+    "supplementaries:sign_post_crimson",
+    "supplementaries:sign_post_warped"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",
