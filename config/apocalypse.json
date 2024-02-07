@@ -5,9 +5,9 @@
     "cooldownMax": 600,
     "distanceMin": 64,
     "distanceMax": 128,
-    "ZombieAmountMin": 8,
+    "ZombieAmountMin": 2,
     "ZombieAmountMax": 16,
-    "PersistentZombies": true
+    "PersistentZombies": false
   },
   "zombie": {
     "attackSpeed": 1.25,
@@ -47,4 +47,3 @@
     "maximumTargetHardness": 20
   }
 }
-
