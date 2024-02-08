@@ -1,6 +1,7 @@
 name = "Endgame Reborn"
 filename = "endgame-reborn-1.20-v1.2.6.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/B0Fm7Yqw/versions/gr6JbRsh/endgame-reborn-1.20-v1.2.6.jar"
