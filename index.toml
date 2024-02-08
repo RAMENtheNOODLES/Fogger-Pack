@@ -42,7 +42,7 @@ hash = "bafdc53b21f11eadd6c1a932a9dcb7f7ec9e503be98cbd81ce92c17228be7439"
 
 [[files]]
 file = "config/apocalypse.json"
-hash = "6f836d27c93d7a076f377df250e4413e5b534de2684072aa88b84f35277dbaa2"
+hash = "4525488fce0dacb0dacd2f56eb80eb5dc0a66f253460689e52c05192de89c13d"
 
 [[files]]
 file = "config/armorchroma.json"
@@ -334,7 +334,7 @@ hash = "d4f57452a113721e4100b9c01cd31ec18904501cd81f43710621d7d2006f31c0"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "597a20b5268c21732700abf7108e2a762c4cdf7b7525663fc99ab8fbaeea75db"
+hash = "a88a148e74419306ffeb88a7f0a4d5b16d4a8f83fd08c1cc48af5c237ddd588d"
 
 [[files]]
 file = "config/itemscroller.json"
