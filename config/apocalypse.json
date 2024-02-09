@@ -1,8 +1,8 @@
 {
   "horde": {
     "enabled": true,
-    "cooldownMin": 300,
-    "cooldownMax": 600,
+    "cooldownMin": 400,
+    "cooldownMax": 1200,
     "distanceMin": 64,
     "distanceMax": 128,
     "ZombieAmountMin": 2,
@@ -10,7 +10,7 @@
     "PersistentZombies": false
   },
   "zombie": {
-    "attackSpeed": 1.25,
+    "attackSpeed": 1,
     "burnsInDaylight": true,
     "avoidSunlight": true,
     "pathThroughDoors": true,
@@ -36,7 +36,7 @@
       "minecraft:wolf,8,false,false",
       "minecraft:dolphin,12,false,false"
     ],
-    "enableDigging": true,
+    "enableDigging": false,
     "blockBreakPriority": 2,
     "dropBrokenBlocks": true,
     "instantDoorBreak": false,
