@@ -42,7 +42,7 @@ hash = "bafdc53b21f11eadd6c1a932a9dcb7f7ec9e503be98cbd81ce92c17228be7439"
 
 [[files]]
 file = "config/apocalypse.json"
-hash = "4525488fce0dacb0dacd2f56eb80eb5dc0a66f253460689e52c05192de89c13d"
+hash = "c0bc965dc6591150fae19a33aaba77b8b4934e1c7058747c96ab0284cf5daca0"
 
 [[files]]
 file = "config/armorchroma.json"
@@ -294,7 +294,7 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/farsighted_mobs.json5"
-hash = "c05174af051bbeb643182a8557cf25d51a7586fc02fcc669cd0e4277a010202e"
+hash = "10157fc61302f32abeb25833c7c9c2dc317511588b913c6ceceba8afd15c59d4"
 
 [[files]]
 file = "config/fastquit.toml"
@@ -590,7 +590,7 @@ hash = "eb8b83f00d240ca760020bf42eb89e542e576b096701e55500a225d66d31052a"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
-hash = "5f730906eebed339c88d565fd1ab766f5237f4af86a71df3f5bb8daaf8b06e6a"
+hash = "d056b47c98380171324cabc46da368138acec46fec75b4dbb064823796dc64b4"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -718,7 +718,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/other_recipes.js"
-hash = "811f455c384cc9cbcb76e7975e81b7c8c979acaabb532313e13be2d9acccb676"
+hash = "70f08da900bca2ef7c7dbf1055a42c2529654879940ab45002d20a5269a45709"
 
 [[files]]
 file = "kubejs/server_scripts/vs_engines.js"
@@ -1064,8 +1064,18 @@ hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "6397162c78c64d7e9130223c3a4094ea680df41a4d12f11a2c7fbfb6a73da202"
+metafile = true
+
+[[files]]
+file = "mods/hearth-and-home.pw.toml"
+hash = "5ff450b2e45f34c9d2fb06b569d3d427ab9bb0371eb209935fd1ddde9d2c40bb"
 metafile = true
 
 [[files]]
@@ -1425,6 +1435,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/you-were-slain.pw.toml"
+hash = "236098ad7c4953781d73898e28b09c794281bd16f829465e038d7ee29b9193dd"
 metafile = true
 
 [[files]]
