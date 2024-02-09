@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -932,6 +932,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "ad00a026157a80dff5ad572c6ee2722b4639e747110b60ee197eb26c66a752d0"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds-fabric.pw.toml"
+hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
 
 [[files]]
@@ -1204,6 +1209,11 @@ hash = "07f02b670c867f44f2662389ac99321a2c986021a2b054e7c108c164793586ea"
 metafile = true
 
 [[files]]
+file = "mods/more-crafting-tables-lieonlion.pw.toml"
+hash = "ba6e40b75aa50db3a1578dfdc33e1cab87c4ce7ed7b1897d5365d9f357f1f56d"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
@@ -1293,6 +1303,11 @@ hash = "aa8fddd03c7498d87646cec809d8882b57df91eca30f3c5d0a7ccf42ab4266d5"
 metafile = true
 
 [[files]]
+file = "mods/quad.pw.toml"
+hash = "b81ef928ccc2933bc089fb4e37efdf3696a5c2b6b505631f1f03f6bb434bb4c6"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "ae69c821036a2935d191dae5aa88d465330e3ad3429200878f333bc814ac592a"
 metafile = true
@@ -1320,6 +1335,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
 metafile = true
 
 [[files]]
