@@ -1049,11 +1049,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
 metafile = true
@@ -1385,6 +1380,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "7f0cf4525c2fde0638a1712276e22dc4580fd1eacc131ff4da6ca2adb6aa469f"
+metafile = true
+
+[[files]]
+file = "mods/the-legend-of-herobrine.pw.toml"
+hash = "0c6ba187fae6fcb8a1aab165c4bcb483e4184a5d61dcecc6a77174991d11d276"
 metafile = true
 
 [[files]]
