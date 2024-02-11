@@ -19,3 +19,4 @@
 /*.txt:ZoneIdentifier
 server.properties
 /config/ledger.toml
+/config/FabricProxy-Lite.toml
