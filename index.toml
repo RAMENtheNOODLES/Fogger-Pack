@@ -458,7 +458,7 @@ hash = "19bf35c69815c9a4ba1482320d794689872ac8e8be1155922c2a6a58f676a0ac"
 
 [[files]]
 file = "config/sit.json5"
-hash = "3858633acd1a72952383c7a0bfd53104b39ab79d2ca201a98fb0caa59a25a6fd"
+hash = "40b1468f7fa2c13add6e7ad249943ee2f699eb2f783b4915ff8e0296968401c2"
 
 [[files]]
 file = "config/skinlayers.json"
