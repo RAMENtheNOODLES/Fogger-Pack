@@ -490,7 +490,7 @@ hash = "185cd01b8985280b0f4399986c514da16b4440cb6783a00500f006ec10714627"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "14af5742c000dd6b153151e0e949392db1721ef00285a43e2e4c58056e189ec6"
+hash = "60e4f852bcb5f6b3ae51cad80b550655451116d541444a27acdf6e0acdce937f"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
@@ -498,7 +498,7 @@ hash = "6291e36267376773c960ef108ec9e5513c1e37020c7bc08c515bbb12e08d5653"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "b30022fe747af5b629b8fa148f3ef354e9bc3e72c7e1c46cd292275eb6658801"
+hash = "0c837acb842a981c810fd9ce5b0453c18c79a8075b2fa188ea782f8915899c09"
 
 [[files]]
 file = "config/supplementaries-client.json"
@@ -594,11 +594,15 @@ hash = "eb8b83f00d240ca760020bf42eb89e542e576b096701e55500a225d66d31052a"
 
 [[files]]
 file = "config/weeping_angels-common.toml"
-hash = "d056b47c98380171324cabc46da368138acec46fec75b4dbb064823796dc64b4"
+hash = "f778ede98244f518503ab2926d4ea85a26ab475be46b4d68836a0354ef46072a"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/youwereslain.json"
+hash = "1fbd06371a7ea0718b9b1fb6a7d1c71e38cecb3921c1a4720028d152a3c177bd"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
@@ -767,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/apocalypse.pw.toml"
-hash = "879fe211eb8000770f0be35c7794600546851d98064d688cbb908469299842d5"
+hash = "34852fee16820e0a032b28d76e709766ad4f19bb5d104b68e9ea7d6e8aa9fa42"
 metafile = true
 
 [[files]]
@@ -965,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
+hash = "2e18561f17575cbf430837b63632199755826120c616a83d58717d2cdba8e7d5"
 metafile = true
 
 [[files]]
@@ -1138,11 +1142,6 @@ hash = "c7e8c7d30f80fab35c6f1aee8cf66f7ebd3923fa43b4a52a1f9ae4b6fc34df3d"
 metafile = true
 
 [[files]]
-file = "mods/ledger.pw.toml"
-hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
@@ -1209,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "67ff2abbc88a4052da64b21ebed1d74c35f075e3ec97f3cff0e7fee9dc114711"
+hash = "7e532cfb6fc15c35248b6d0ae3ac5bddae4065920a429c486e36f81bc1db48e7"
 metafile = true
 
 [[files]]
@@ -1244,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "91a6265d6568a1c322c93c677b4e995fd996b2d248039e299260a5304bd3ee28"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
@@ -1264,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
+hash = "acfbe6632469f78f299d341895817ee1b678b7c03d773631399f574d99f87fef"
 metafile = true
 
 [[files]]
@@ -1303,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/progression-reborn.pw.toml"
-hash = "dfd73e35e2c5ff739c27885df0f83a0502c43a971827d51b5b85d5bce5b73946"
+hash = "edc42d4d4cf9bbe34b47a248cf931956a1a910b8ba9c425b2cc40464d1d52430"
 metafile = true
 
 [[files]]
@@ -1333,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "3163806caf563483abac5d57071fd53fdf6e2c2206cde2aac152e8688e480a37"
+hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]
@@ -1353,7 +1352,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4ddabe0943463aed08fcfe20880a525cc722ca8689692d5403e2c34c2c13b2d3"
+hash = "77587b05bd100395f429f60463b3f167cbab276c5e446593f5c883b85a074b7a"
 metafile = true
 
 [[files]]
@@ -1383,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7f0cf4525c2fde0638a1712276e22dc4580fd1eacc131ff4da6ca2adb6aa469f"
+hash = "176973acd3d44bd2ec90e08be979b53140293b0b511d57802c6996e6cebba4e4"
 metafile = true
 
 [[files]]

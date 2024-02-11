@@ -1,13 +1,13 @@
 name = "Apocalypse"
-filename = "apocalypse-1.1.0.jar"
+filename = "apocalypse-1.1.1_1.20.1-1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hBxmUw1S/versions/yAquvtV9/apocalypse-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/hBxmUw1S/versions/jNAiIRWM/apocalypse-1.1.1_1.20.1-1.20.2.jar"
 hash-format = "sha1"
-hash = "0cded2670ce5fb92de843704cb27cfccbf98c4c9"
+hash = "9abf704ecd432834e2cfa0a486a3e859595affba"
 
 [update]
 [update.modrinth]
 mod-id = "hBxmUw1S"
-version = "yAquvtV9"
+version = "jNAiIRWM"

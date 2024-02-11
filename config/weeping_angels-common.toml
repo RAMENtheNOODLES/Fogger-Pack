@@ -5,7 +5,7 @@
 	#Range: 1 ~ 100
 	stalk_range = 65
 	#If enabled alongside the mobGriefing gamerule, angels will interact with blocks that emit light
-	block_breaking = true
+	block_breaking = false
 
 [damage]
 	#Hurt

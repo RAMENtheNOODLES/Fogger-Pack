@@ -1,13 +1,13 @@
 name = "Progression Reborn"
-filename = "progression-reborn-1.20-v1.3.11.jar"
+filename = "progression-reborn-1.20-v1.3.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PE2WMGd2/versions/NOPRbrFb/progression-reborn-1.20-v1.3.11.jar"
+url = "https://cdn.modrinth.com/data/PE2WMGd2/versions/CLmjseTJ/progression-reborn-1.20-v1.3.12.jar"
 hash-format = "sha1"
-hash = "eee216d6807ddfb9582ec45456e6830a874dd069"
+hash = "2e96c40545f5f06fe1cca05e09589741096e6d35"
 
 [update]
 [update.modrinth]
 mod-id = "PE2WMGd2"
-version = "NOPRbrFb"
+version = "CLmjseTJ"
