@@ -42,7 +42,7 @@ hash = "bafdc53b21f11eadd6c1a932a9dcb7f7ec9e503be98cbd81ce92c17228be7439"
 
 [[files]]
 file = "config/apocalypse.json"
-hash = "c0bc965dc6591150fae19a33aaba77b8b4934e1c7058747c96ab0284cf5daca0"
+hash = "853f170d7571e4675f3a6b4993797f02f2e05ad9d1b1eb95491ffbd5fd3ec33c"
 
 [[files]]
 file = "config/armorchroma.json"
@@ -317,6 +317,10 @@ file = "config/harvestwithease-common.toml"
 hash = "c2202b8ca5ce16360faa9a75e0d3768538ddfd196fc4b48227f2e323d50d38d1"
 
 [[files]]
+file = "config/herobrine.json"
+hash = "0bef340dc0b0b21d84c5334172a4e8071ec8878b9e12243608e664cd125aac23"
+
+[[files]]
 file = "config/highspeed-rail.json5"
 hash = "8311925ac5d26f03f26dfe1bd5943bb7bbb7aabaf80a338d6606c952e1d4563f"
 
@@ -334,7 +338,7 @@ hash = "d4f57452a113721e4100b9c01cd31ec18904501cd81f43710621d7d2006f31c0"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "1ab634c6b85cbc7b717424f7dcbc44ddc161f10a609a94b96de42e27fc1b992c"
+hash = "5e58ca9fce2f5ebad306a4d7b5281f3aa202c56f4585984d14bae583127d90e8"
 
 [[files]]
 file = "config/itemscroller.json"
@@ -1455,6 +1459,10 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "3cc3ebd57f1ec54a8ceaccc76e193201f8c957c563c9461253d112c5b087d744"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_FogPack.zip"

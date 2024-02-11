@@ -6,14 +6,14 @@
     "distanceMin": 64,
     "distanceMax": 128,
     "ZombieAmountMin": 2,
-    "ZombieAmountMax": 16,
+    "ZombieAmountMax": 6,
     "PersistentZombies": false
   },
   "zombie": {
     "attackSpeed": 1,
     "burnsInDaylight": true,
     "avoidSunlight": true,
-    "pathThroughDoors": true,
+    "pathThroughDoors": false,
     "enablePounce": true,
     "pounceVelocity": 0.2,
     "pouncePriority": 14,
