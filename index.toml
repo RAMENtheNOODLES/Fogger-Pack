@@ -726,7 +726,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/other_recipes.js"
-hash = "70f08da900bca2ef7c7dbf1055a42c2529654879940ab45002d20a5269a45709"
+hash = "b05795ac68fc06d36718a62a0dd5ee967685b3e6b9ccaf09b42f789dafec9b39"
 
 [[files]]
 file = "kubejs/server_scripts/vs_engines.js"
@@ -901,6 +901,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
+metafile = true
+
+[[files]]
+file = "mods/craft-slabs-back-into-blocks.pw.toml"
+hash = "d0b2182477538415554bc2cc51dd81f0599913a0aa67951f6f87e2fe880ebb9f"
 metafile = true
 
 [[files]]

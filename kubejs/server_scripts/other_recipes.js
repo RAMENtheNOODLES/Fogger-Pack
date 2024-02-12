@@ -14,6 +14,12 @@ ServerEvents.recipes((event) => {
     },
   );
 
+  event.remove({ output: "minecraft:bricks" });
+
+  event.shaped(Item.of("minecraft:bricks", 4), ["BB", "BB"], {
+    B: "minecraft:brick",
+  });
+
   event.shaped(
     Item.of("walkietalkie:iron_walkietalkie", 1),
     ["CG", "RI", "II"],
@@ -25,4 +31,3 @@ ServerEvents.recipes((event) => {
     },
   );
 });
-
