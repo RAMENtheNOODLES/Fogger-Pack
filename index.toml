@@ -983,11 +983,6 @@ hash = "2e18561f17575cbf430837b63632199755826120c616a83d58717d2cdba8e7d5"
 metafile = true
 
 [[files]]
-file = "mods/enchancement.pw.toml"
-hash = "1d8b5b7ea58a2f614ceb1aa05ed88972b97dcd65a73f7f912417ebc1783fa146"
-metafile = true
-
-[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
@@ -1322,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/progression-reborn.pw.toml"
-hash = "edc42d4d4cf9bbe34b47a248cf931956a1a910b8ba9c425b2cc40464d1d52430"
+hash = "6ad1663c203f88f1109d5dbeb2f168417e54304d19a7c0bb4ee5c96bdcbb5922"
 metafile = true
 
 [[files]]
