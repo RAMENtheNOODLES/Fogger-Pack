@@ -5,7 +5,7 @@
 	#Range: 1 ~ 100
 	stalk_range = 65
 	#If enabled alongside the mobGriefing gamerule, angels will interact with blocks that emit light
-	block_breaking = true
+	block_breaking = false
 
 [damage]
 	#Hurt
@@ -23,6 +23,7 @@
     "immersive_portals:alternate3",
     "immersive_portals:alternate4",
     "immersive_portals:alternate5",
+    "minecraft:end"
 
 ]
 	#Determines the range that a player can be teleported from their current location
