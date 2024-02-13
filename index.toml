@@ -983,6 +983,11 @@ hash = "2e18561f17575cbf430837b63632199755826120c616a83d58717d2cdba8e7d5"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "1d8b5b7ea58a2f614ceb1aa05ed88972b97dcd65a73f7f912417ebc1783fa146"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
@@ -1408,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/this-boat-is-mine.pw.toml"
 hash = "087fb48f7bc64c3bbfb3ca4a1b47929f2152118598f97376f69fffad33f78c7b"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
