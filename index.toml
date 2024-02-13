@@ -1417,7 +1417,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "c51f95895be72150f3f379e3e7f198c3b63da4e9bb24465596b3e4134a7867a8"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
