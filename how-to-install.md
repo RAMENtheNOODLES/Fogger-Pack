@@ -16,7 +16,7 @@ Here is how to install Foggerpack on a variety of different clients:
 3. Click `edit`
 4. Click `settings`
 5. Go to the `custom commands` tab
-6. Paste in: `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://ramenthenoodles.github.io/Fogger-Pack/pack.toml` into the `Pre-Launch command` area
+6. Paste in: `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://foggerpack.cookiejar499.tech/pack.toml` into the `Pre-Launch command` area
 7. Launch the game!
 
 
