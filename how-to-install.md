@@ -12,8 +12,6 @@ Here is how to install Foggerpack on a variety of different clients:
 
 ## Multimc / Prism Auto updating instance[^2]
 
-<details>
-
 1. Follow the steps from how to install Fogger-Pack with Multimc/Prism
 2. Click on the instance of Foggerpack
 
@@ -34,7 +32,6 @@ Here is how to install Foggerpack on a variety of different clients:
 
     ![image](https://github.com/RAMENtheNOODLES/Fogger-Pack/assets/58859646/5a2a5e4c-ff40-4415-8583-2c570ce5027b)
 14. Launch the game!
-</details>
 
 [^1]: _These steps should also work for other forks of multimc and/or prism_
 [^2]: _The [packwiz-bootstrap installer](https://github.com/packwiz/packwiz-installer-bootstrap) is already included in this pack_
