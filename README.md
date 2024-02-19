@@ -1,4 +1,4 @@
-# About Foggerpack!
+![Foggerpack Logo](/assets/foggy_minecraft.png)
 
 This modpack is a horror modpack, that adds herobrine, and many other mobs.
 
